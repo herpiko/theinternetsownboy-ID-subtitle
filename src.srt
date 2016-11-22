@@ -12,8 +12,8 @@ akankah kita puas untuk mematuhinya,
 00:00:28,700 --> 00:00:33,600
 or shall we endeavor to amend them,
 and obey them until we have succeeded,
-atau akankah kita berusaha untuk mengubah mereka,
-dan mematuhi mereka sampai kita berhasil,
+atau akankah kita berusaha untuk mengubahnya,
+dan mematuhinya sampai kita berhasil,
 
 4
 00:00:33,700 --> 00:00:37,600
@@ -47,22 +47,22 @@ Ada duka yang mendalam malam ini di Highland Park, kota asal Aaron Swartz
 10
 00:01:14,909 --> 00:01:18,800
 as loved ones say goodbye to one of the Internet's brightest lights
-sebagai orang yang dicintai, mengucapkan selamat tinggal kepada salah satu lentara internet yang paling terang
+sebagai orang yang dicintai, mengucapkan selamat tinggal kepada salah satu tokoh internet paling cemerlang
 
 11
 00:01:19,000 --> 00:01:22,247
 ...Open Access and computer activits are mourning his loss
-...Open Access dan aktivis komputer...
+...Open Access dan aktivis komputer berduka atas kehilangan ini
 
 12
 00:01:22,280 --> 00:01:25,163
 ...an astonishing intellect. You talk to people who knew him
-...seorang intelek yang menakjubkan. Kamu berbicara dengan orang-orang yang mengenalnya
+...seorang intelek yang menakjubkan. Kamu bicara dengan orang-orang yang mengenalnya
 
 13
 00:01:25,214 --> 00:01:29,500
 ...he was killed by the government and MIT betrayed all of its basic principles
-...dia dibunuh oleh pemerintah dan MIT yang mengkhianati prinsip mereka sendiri.
+...ia dibunuh oleh pemerintah dan MIT yang mengkhianati prinsip mereka sendiri.
 
 14
 00:01:29,600 --> 00:01:34,283
@@ -82,39 +82,42 @@ Pemerintah memiliki keinginan yang tak terpuaskan untuk mengontrol
 17
 00:01:43,410 --> 00:01:49,076
 Raising questions of prosecutorial zeal and I would say even miscondut.
+Menimbulkan pertanyaan tentang tuntutan itu dan saya akan katakan, meskipun salah.
 
 18
 00:01:49,141 --> 00:01:54,600
 Have you looked into that particular matter and reached any conclusions?
+Sudahkah kamu melihat ke masalah spesifik tersebut dan menyadari sesuatu?
 
 19
 00:01:57,700 --> 00:02:00,600
 Growing up, you know, I slowly had this process of realising
-Tumbuh, kau tahu, aku perlahan-lahan melakukan proses pewujudkan ini
+Tumbuh, kau tahu, saya perlahan-lahan melalui proses ini
 
 20
 00:02:00,683 --> 00:02:02,807
 that all the things around me, that people had told me
-itu semua yang terjadi di sekitar saya, orang itu mengatakan kepada saya
+itu semua yang terjadi di sekitar saya, orang-orang mengatakan kepada saya
 
 21
 00:02:02,850 --> 00:02:06,189
 were just the natural way things were, the way things always would be.
+hal ini sesuatu yang normal, sudah sebagaimana mestinya.
 
 22
 00:02:06,225 --> 00:02:08,545
 They weren't natural at all. They were things that could be changed
-Mereka tidak alami sama sekali. Mereka adalah sesuatu yang bisa diubah
+Itu semua bukan hal yang normal sama sekali. Masih bisa diubah.
 
 23
 00:02:08,589 --> 00:02:11,687
 and they were thing that more importantly were wrong and should change.
-dan mereka adalah yang seharusnya bersalah dan harus berubah.
+dan mereka sesuatu yang salah dan harus berubah.
 
 24
 00:02:11,738 --> 00:02:14,516
 And once I realised that, there was really kind of no going back
-Dan terkadang saya menyadari bahwa, ada semacam "no" kembali
+Dan kemudian saya menyadari bahwa tidak ada cara untuk kembali
 
 25
 00:02:15,000 --> 00:02:19,000
@@ -123,17 +126,17 @@ The Internet's Own Boy
 26
 00:02:24,101 --> 00:02:27,134
 Welcome to story reading time
-Selamat datang di waktu membaca cerita
+Saatnya membaca buku cerita
 
 27
 00:02:27,992 --> 00:02:32,000
 The name of the book is 'Paddington at the fair'
-Nama bukunya adalah 'Paddington at The Fair'
+Judul bukunya adalah 'Paddington at The Fair'
 
 28
 00:02:32,952 --> 00:02:36,500
 Well, he was born in Highland Park and grew up here
-Baik, dia lahir di Highland Park dan tumbuh di sini
+Nah, dia lahir di Highland Park dan tumbuh besar di sini
 
 29
 00:02:36,552 --> 00:02:40,000
@@ -143,88 +146,108 @@ Aaron datang dari keluarga dengan tiga bersaudara yang luar biasa cerdas
 30
 00:02:40,100 --> 00:02:42,370
 The box is flipping over!
+Kotaknya terbalik!
 
 31
 00:02:44,574 --> 00:02:47,767
 So, we were all, you know, not the best behaved children
-Jadi, kita semua, kamu tahu, bukan anak-anak berperilaku baik
+Jadi kami semua, kamu tahu, bukan anak-anak berperilaku baik
 
 32
 00:02:47,810 --> 00:02:51,100
 you know, three boys running around all the time, causing trouble
+Tiga anak-anak yang lari kesana kemari setiap waktu, bikin masalah
 
 33
 00:02:51,600 --> 00:02:55,100
 Mom: No, no, no... Aaron!?
 Aaron: What?
+Mom: No, no, no... Aaron!?
+Aaron: Apa?
 
 34
 00:02:55,556 --> 00:03:00,807
 But, I've come to the realization: Aaron learned how to learn at a very young age
-
+Tapi, saya telah menyadarinya : Aaron sudah belajar sejak usia yang dini sekali
 35
 00:03:06,500 --> 00:03:07,700
 Toc, toc!?
+Tok, tok!?
 
 36
 00:03:07,800 --> 00:03:08,800
 Who's here?
+Siapa itu?
 
 37
 00:03:08,900 --> 00:03:09,800
+Aaron!
 Aaron!
 
 38
 00:03:09,900 --> 00:03:10,836
 Aaron who?
+Aaron siapa?
 
 39
 00:03:10,887 --> 00:03:12,500
 Aaron funny man
+Aaron yang lucu
 
 40
 00:03:12,640 --> 00:03:14,858
 He knew what he wanted, he always wanted to do it.
+Dia tahu apa yang ia mau, ia selalu ingin melakukannya.
 
 41
 00:03:14,872 --> 00:03:16,850
 He always accomplished what he wanted.
+Ia selalu menyelesaikan apa pun yang ia inginkan.
 
 42
 00:03:18,320 --> 00:03:20,800
 His curiosity was endless
+Rasa penasarannya tak pernah berhenti
 
 43
 00:03:21,156 --> 00:03:25,500
 Here's the little picture of a [?] [?]
+Ini adalah gambar kecil dari sebuah [?] [?]
 
 44
 00:03:33,000 --> 00:03:34,494
 One day he said to Susan:
+Suatu ari ia berkata kepada Susan:
 
 45
 00:03:34,523 --> 00:03:37,240
 "Let's do three family entertainment[?] downtown in the park"
+"Ayo kita lakukan pertunjukan tiga keluarga[?] di taman"
 
 46
 00:03:37,381 --> 00:03:40,000
 Three family entertainment[?] downtown in the park
+Pertunjukan tiga keluarga di taman
 
 47
 00:03:40,500 --> 00:03:42,000
 He was three at the time
+Saat itu ia berumur 3 tahun
 
 48
 00:03:42,500 --> 00:03:44,200
 She said: "What are you talking about?"
+Susan berkata : "Apa maksudmu?"
 
 49
 00:03:44,300 --> 00:03:47,000
 He said: "Look it says here on on the refrigerator"
+Dia bilang : "Lihat, tertulis di kulkas"
 
 50
 00:03:47,054 --> 00:03:49,178
 "Three family entertainment[?] downtown in the park"
+"Pertunjukan tiga keluarga di taman"
 
 51
 00:03:49,200 --> 00:03:54,800
