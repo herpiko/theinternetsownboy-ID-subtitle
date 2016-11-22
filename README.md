@@ -26,6 +26,7 @@ atau akankah kita melanggarnya sekaligus?
 5
 00:00:37,700 --> 00:00:40,000
 Henry David Thoreau
+Henry David Thoreau
 
 ```
 
