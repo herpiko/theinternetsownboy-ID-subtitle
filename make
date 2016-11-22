@@ -3,6 +3,23 @@
 
 i=1
 s=1
+dist="TheInternetsOwnBoy_TheStoryofAaronSwartz-HD.srt"
+
+spinner()
+{
+    local pid=$!
+    local delay=0.1
+    local spinstr='|/-\'
+    while [ "$(ps a | awk '{print $1}' | grep $pid)" ]; do
+        local temp=${spinstr#?}
+        printf " [%c]  " "$spinstr"
+        local spinstr=$temp${spinstr%"$temp"}
+        sleep $delay
+        printf "\b\b\b\b\b\b"
+    done
+    printf "    \b\b\b\b"
+}
+
 declare -a arr
 while read -r line 
 do
@@ -22,20 +39,24 @@ $line" || {
     }
 done < src.srt
 
-echo "" > dist.srt
+splitting()
+{
+  echo "" > $dist
+  
+  for i in "${arr[@]}"
+  do
+     lines=`echo "$i" | wc -l`
+     lines=$((lines-2))
+     if [ "$lines" -gt 3 ];then
+       i=`echo -e "$i" | sed '3,5d'`
+     elif [ "$lines" -gt 2 ];then
+       i=`echo -e "$i" | sed '3,4d'`
+     else 
+       i=`echo -e "$i" | sed '3d'`
+     fi
+     echo "$i" >> $dist
+     echo "" >> $dist
+  done 
+}
 
-for i in "${arr[@]}"
-do
-   lines=`echo "$i" | wc -l`
-   lines=$((lines-2))
-   if [ "$lines" -gt 3 ];then
-     i=`echo -e "$i" | sed '3,5d'`
-   elif [ "$lines" -gt 2 ];then
-     i=`echo -e "$i" | sed '3,4d'`
-   else 
-     i=`echo -e "$i" | sed '3d'`
-   fi
-   echo "$i" >> dist.srt
-   echo "" >> dist.srt
-done 
-
+splitting & spinner
