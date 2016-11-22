@@ -219,7 +219,7 @@ Ini adalah gambar kecil dari sebuah [?] [?]
 44
 00:03:33,000 --> 00:03:34,494
 One day he said to Susan:
-Suatu ari ia berkata kepada Susan:
+Suatu hari ia berkata kepada Susan:
 
 45
 00:03:34,523 --> 00:03:37,240
@@ -253,6 +253,7 @@ Dia bilang : "Lihat, tertulis di kulkas"
 
 51
 00:03:49,200 --> 00:03:54,800
+She was flurred and astonished that he could read
 Susan takjub dan heran bahwa Aaron bisa membaca
 
 52
