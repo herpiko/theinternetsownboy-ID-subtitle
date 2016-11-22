@@ -1,15 +1,32 @@
-﻿
-### Kontribusi
+﻿### Kontribusi
 
 Sunting berkas `src.txt`. Tulis terjemahannya persis di bawah kalimat Bahasa Inggris-nya agar orang lain masih dapat membaca perbandingannya.
 
 Contoh :
 
 ```
-6
-00:00:50,222 --> 00:00:55,000
-The co-founder of the social news and entertainment website "reddit" has been found dead
-co-founder dari situs sosial berita "Reddit" ditemukan tewas.
+
+2
+00:00:26,000 --> 00:00:28,600
+shall we be content to obey them,
+akankah kita puas untuk mematuhinya,
+
+3
+00:00:28,700 --> 00:00:33,600
+or shall we endeavor to amend them,
+and obey them until we have succeeded,
+atau akankah kita berusaha untuk mengubahnya,
+dan mematuhinya sampai kita berhasil,
+
+4
+00:00:33,700 --> 00:00:37,600
+or shall we transgress them at once?
+atau akankah kita melanggarnya sekaligus?
+
+5
+00:00:37,700 --> 00:00:40,000
+Henry David Thoreau
+
 ```
 
 ### Pisah
