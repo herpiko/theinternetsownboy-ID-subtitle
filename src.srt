@@ -93,7 +93,8 @@ Sudahkah kamu melihat ke masalah spesifik tersebut dan menyadari sesuatu?
 19
 00:01:57,700 --> 00:02:00,600
 Growing up, you know, I slowly had this process of realising
-Tumbuh, kau tahu, saya perlahan-lahan melalui proses ini
+Tumbuh, 
+tahu, saya perlahan-lahan melalui proses ini
 
 20
 00:02:00,683 --> 00:02:02,807
@@ -269,78 +270,97 @@ The seder night is different from all other nights
 54
 00:04:04,858 --> 00:04:08,472
 I remember once we were are the University of Chicago library
+Saya ingat ketika kita ada di perpustakaan Chicago
 
 55
 00:04:08,800 --> 00:04:12,320
 I pulled a book off the shelf that was like from 1900
+Saya menarik sebuah buku dari rak yang seperti dari tahun 1900
 
 56
 00:04:12,589 --> 00:04:16,050
 and showed to him, I said: "You know this is [?] an extraordinary place"
+dan saya tunjukan kepadanya, Saya berkata: "Kamu tahu ini adalah tempat yang luar biasa"
 
 57
 00:04:16,100 --> 00:04:22,152
 We all were curious children but Aaron really liked learning and really liked teaching
+Kita semua adalah anak-anak yang penasaran tapi Aaron benar-benar menyukai belajar dan benar-benar menyukai mengajar
 
 58
 00:04:22,225 --> 00:04:30,000
 Today we're going to read the ABC backwards z, y, x, w, ...
+Hari ini kita akan membaca ABC mundur z, y, x, w, ...
 
 59
 00:04:31,752 --> 00:04:35,032
 I remember he came home from his first algebra class
+Saya ingat dia datang ke rumah dari kelas aljabar pertamanya
 
 60
 00:04:35,090 --> 00:04:38,000
 he was like: "Noah, let me teach you algebra!"
+Dia bilang: "Noah, coba saya ajarkan kamu aljabar!"
 
 61
 00:04:38,625 --> 00:04:40,363
 and I'm like: "What is algebra?"
+dan sayang bilang: "Apa itu aljabar?"
 
 62
 00:04:40,785 --> 00:04:42,305
 and he was always like that
+dan dia selalu seperti itu
 
 63
 00:04:42,800 --> 00:04:45,810
 Now I press button, click button
+Sekarang saya tekan tombol, klik tombol
 
 64
 00:04:46,600 --> 00:04:50,500
 there, now he's got that[?], now it's a pink
+ya, dia mendapatkan/mengerti itu, sekarang itu berwarna pink
 
 65
 00:04:52,109 --> 00:04:56,000
 When he was at 2 or 3 three years old an Bob introduced him to computers
+Ketika dia berumur 2 atau 3 tahun dan Bob mempemperkenalkannya komputer
 
 66
 00:04:56,058 --> 00:04:58,647
 then he just took off like crazy on them
+kemudian dia ...
 
 67
 00:04:59,178 --> 00:05:02,712
+[?]
 [?]
 
 68
 00:05:03,243 --> 00:05:08,247
 We all had computers, but Aaron really talked to them, really talked to the Internet
+Kita semua punya komputer, tapi Aron benar-benar berbicara padanya, benar-benar berbicara kepada Internet
 
 69
 00:05:09,207 --> 00:05:10,500
 Looking at the computer?
+Melihat ke komputer?
 
 70
 00:05:10,545 --> 00:05:12,900
 No, how [?]
+Tidak, bagaimana [?]
 
 71
 00:05:15,854 --> 00:05:18,101
 He started programming from a really young age.
+Dia memulai memprogram sejak dia berumur sangat muda.
 
 72
 00:05:18,152 --> 00:05:21,585
 I remember the first program that I wrote with him was in basic
+Saya ingat program yang saya tulis dengannya adalah dalam ...
 
 73
 00:05:21,781 --> 00:05:24,334
