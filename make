@@ -1,6 +1,8 @@
 #!/bin/bash
 # http://stackoverflow.com/a/18539730
 
+set -e 
+
 i=1
 s=1
 dist="TheInternetsOwnBoy_TheStoryofAaronSwartz-HD.srt"
