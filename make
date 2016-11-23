@@ -37,7 +37,7 @@ $line" || {
             arr[$i]="$line"
             s=0; 
     }
-done < src.srt
+done < src.txt
 
 splitting()
 {
