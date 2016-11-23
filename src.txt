@@ -1042,58 +1042,72 @@ especially in such a prestigious case as this one
 209
 00:13:42,000 --> 00:13:46,600
 Lessig was also moving forward with a new way to define copyright on the Internet
+Lessig juga maju dengan cara baru untuk mendefinisikan copyright di Internet
 
 210
 00:13:46,900 --> 00:13:48,800
 it was called Creative Commons
+yang disebut Creative commons
 
 211
 00:13:49,200 --> 00:13:51,800
 So the simple idea of Creative Commons is to give people, creators
+Maka ide sederhana Creative Commons adalah untuk memberi orang, pencipta
 
 212
 00:13:53,000 --> 00:13:55,800
 a simple way to mark their creativity
+cara sederhana untuk menandai karya mereka
 
 213
 00:13:56,000 --> 00:13:58,600
 with the freedoms they intended to carry
+dengan kebebasan yang mereka ingin capai
 
 214
 00:13:59,000 --> 00:14:01,700
 So copyright is about "all rights reserved"
+Maka copyright adalah tentang "all rights reserved"
 
 215
 00:14:01,900 --> 00:14:04,900
 then this is a kind of "some rights reserved" bottle[?]
+dan yang ini adalah semacam "some rights reserved" botol[?]
 
 216
 00:14:05,100 --> 00:14:08,400
 It's I want a simple way to say to you "here's what you can do with my work"
+Saya ingin cara sederhana untuk mengatakan "ini adalah yang kamu bisa lakukan dengan karyaku"
 
 217
 00:14:08,700 --> 00:14:12,800
 even if there are other things which you need to get my permission before you could do
+walaupun mungkin ada hal lain yang harus mendapatkan izin saya sebelum kamu melakukannya
 
 218
 00:14:13,300 --> 00:14:16,400
 And Aaron's role was the computer part
+Dan peran Aaron adalah bagian komputer
 
 219
 00:14:16,600 --> 00:14:18,600
 like how do you architect the licenses
+seperti bagaimana kamu membagun lisensi
 
 220
 00:14:18,800 --> 00:14:23,300
 so that would be simple and understandable and expressed in way that machines could process it
+sehingga akan menjadi sederhana dan mudah dipahami dan disajikan dengan cara yang bisa diproses oleh mesin
 
 221
 00:14:23,600 --> 00:14:26,800
 And people are like, why do you have this fifteen year old kid
+Dan orang-orang bilang, mengapa kamu, anak 15 tahun, melakukan ini
 
 222
 00:14:26,900 --> 00:14:29,000
 writing the specifications of creative commons?
+menulis spesifikasi creative commons?
 
 223
 00:14:29,400 --> 00:14:31,100
