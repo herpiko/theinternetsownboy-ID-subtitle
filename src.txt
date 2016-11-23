@@ -798,18 +798,18 @@ Aku lebih baik darimu dan aku bisa menyuruhmu apa yang harus dilakukan
 159
 00:10:30,007 --> 00:10:34,500
 It's an extension of him being like a kind of torpe[?]
--------------------------------------------
+Ini kelebihan dari dirinya [?]
 
 160
 00:10:35,100 --> 00:10:38,596
 So you aggregate all these computers together and now they're solving big problems
--------------------------------------------
+Jadi kau gabungkan semua komputer itu dan sekarang menyelesaikan masalah-masalah besar
 
 161
 00:10:38,625 --> 00:10:42,000
 like searching for aliens or trying to cure cancer
+seperti mencari keberadaan alien atau mencoba menyembuhkan kanker
 
--------------------------------------------
 162
 00:10:45,003 --> 00:10:49,600
 First I met him on IRC, on Internet Relay Chat, he didn't just write code
@@ -823,7 +823,7 @@ ia membuat orang lain antusias menyelesaikan masala-masalah, ia adalah penghubun
 164
 00:10:55,658 --> 00:10:58,300
 the free culture movement, which had lot of his energy
-gerakan budaya bebas, yang mana banyak menghabiskan energinya
+gerakan free culture, yang mana banyak menghabiskan energinya
 
 165
 00:10:58,356 --> 00:11:03,600
@@ -840,126 +840,156 @@ Dia punya kepribadian kuat yang baik
 167
 00:11:06,000 --> 00:11:08,661
 that definetly ruffled[?] feathers at times
--------------------------------------
+yang tentu saja membingungkan [?]
 
 168
 00:11:08,705 --> 00:11:13,500
 and wasn't necessarily the case that he was always confortable in the world
+dan tidak begitu perlu sementara ia selalu nyaman dengan dunia ini
 
 169
 00:11:13,556 --> 00:11:16,000
 and the world wasn't confortable with him
+dan dunia ini tidak nyaman dengan keberadaannya
 
 170
 00:11:19,287 --> 00:11:23,040
 Aaron got into high school, and was really just sick of school
+Aaron masuk SMA dan benar-benar tidak menyukainya.
 
 171
 00:11:23,100 --> 00:11:25,800
 he didn't like it, he didn't like any of the classes he had been taught
+dia tidak suka, dia tidak suka apa pun yang diajarkan di kelas
 
 172
 00:11:25,854 --> 00:11:27,800
 he didn't like the teachers
+dia tidak menyukai guru-gurunya
 
 173
 00:11:28,167 --> 00:11:30,465
 Aaron really knew how to get information
+Aaron benar-benar tahu bagaimana mendapatkan informasi
 
 174
 00:11:30,501 --> 00:11:34,200
 He was like, I don't need to go to these teachers to know how to do geometry
+Dia bilang, dia tidak perlu menemui guru-gurunya untuk memahami geometry
 
 175
 00:11:34,320 --> 00:11:36,640
 I can just read the geometry book
+Aku baca saja buku geometry, kelar
 
 176
 00:11:36,683 --> 00:11:41,134
 and I don't need to go to the teacher to learn their version of American history
+dan aku tidak akan menemui guru-guruku hanya untuk mempelajari sejarah Amerika versi mereka
 
 177
 00:11:41,454 --> 00:11:45,800
 I have like three historical compilations here like I can just read them
+Aku punya tiga kompilasi sejarah di sini yang aku bisa baca.
 
 178
 00:11:45,840 --> 00:11:48,800
 and I'm not interested in that, I'm interested in the Web
+dan aku tidak tertarik dengann itu, aku tertarik dengan teknologi Web
 
 179
 00:11:49,000 --> 00:11:50,600
 I was very frustrated with school
+Aku sangat frustasi dengan sekolah
 
 180
 00:11:50,640 --> 00:11:53,300
 I thought, you know, the teachers didn't know what they were talking about
+Kupikir, guru-guru di sekolah tidak tahu apa yang mereka bicarakan
 
 [position]
 
 181
 00:11:53,400 --> 00:11:56,700
 they were very domineering and controlling, homework was kind of a sham[?]
+mereka sangat mendominasi dan  mengontrol, PR (pekerjaan rumah) itu sesuatu yang salah
 
 182
 00:11:56,814 --> 00:11:59,585
 I was just like, you know, all the way are penstick[?] together
+Dan aku seperti [?]
 
 183
 00:11:59,607 --> 00:12:01,440
 and force them to do busy work
+dan dipaksa oleh mereka untuk mengerjakan ini itu
 
 184
 00:12:01,701 --> 00:12:05,563
 and, you know, I started reading books about the history of education
+dan aku mulai membaca buku tentang sejarah pendidikan
 
 185
 00:12:05,600 --> 00:12:08,312
 and how this educational system was developed
+bagaimana sistem pendidikan kita dikembangkan
 
 186
 00:12:08,378 --> 00:12:12,225
 and, you know, alternative ways to do it[?] people could actually learn things
+dan, kamu tahu, ada jalan alternatif, orang-orang mestinya bisa belajar hal baru
 
 187
 00:12:12,276 --> 00:12:14,700
 instead of just regurgitating facts that the teachers told them
+ketimbang menelan fakta-fakta yang diceritakan guru-guru mereka
 
 188
 00:12:14,900 --> 00:12:17,556
 and that kind of led me down this path of questioning things
+dan ini mejadikan saya mempertanyakan hal-hal lain
 
 189
 00:12:17,650 --> 00:12:21,527
 and once I questioned the school I was in, I questioned the society that built the school
+kadang aku mempertanyakan sekolahku, aku mempertanyakan masyarakat yang membangun sekolah itu
 
 190
 00:12:21,563 --> 00:12:24,749
 I questioned the businesses that the schools were training people for
+aku mempertanyakan bisnis yang dikekola sekolah itu
 
 191
 00:12:24,792 --> 00:12:27,818
 I questioned the government that, you know, setup this whole structure
+aku mempertanyakan pemerintah yang, kamu tahu, yang mengatur seluruh struktur masyarakat ini
 
 192
 00:12:28,021 --> 00:12:30,465
 One of the themes he was more passionate about was copyright,
+Salahs satu topik yang membuatnya sangat tertarik adalah tentang hak cipta
 
 193
 00:12:30,494 --> 00:12:31,760
 especially in those early days
+terutama pada waktu awal-awal dulu
 
 194
 00:12:31,840 --> 00:12:37,236
 Copyright has always been something overburden on publishing industry and on readers
+Hak cipta selalu menjadi sesuatu yang membebani indurstri penerbitan, dan untuk pembacanya
 
 195
 00:12:38,181 --> 00:12:41,069
 but it wasn't an excessive burden
+tapi itu bukan beban yang besar
 
 196
 00:12:41,100 --> 00:12:46,200
 it was a reasonable institution to have in place
 to make sure that people got paid
+masih masuk akal institusi berda di posisi tersebut
+untuk memastikan orang-orang dibayar atas hak mereka
 
 197
 00:12:46,254 --> 00:12:50,100
