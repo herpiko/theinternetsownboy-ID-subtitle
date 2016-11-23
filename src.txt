@@ -10,10 +10,8 @@ akankah kita puas untuk mematuhinya,
 
 3
 00:00:28,700 --> 00:00:33,600
-or shall we endeavor to amend them,
-and obey them until we have succeeded,
-atau akankah kita berusaha untuk mengubahnya,
-dan mematuhinya sampai kita berhasil,
+or shall we endeavor to amend them, and obey them until we have succeeded,
+atau akankah kita berusaha untuk mengubahnya, dan mematuhinya sampai kita berhasil,
 
 4
 00:00:33,700 --> 00:00:37,600
@@ -28,7 +26,7 @@ Henry David Thoreau
 6
 00:00:50,222 --> 00:00:55,000
 The co-founder of the social news and entertainment website "reddit" has been found dead
-co-founder dari situs sosial berita dan entertainmen "Reddit" ditemukan tewas.
+co-founder dari situs sosial berita dan hiburan "Reddit" ditemukan tewas.
 
 7
 00:00:57,537 --> 00:01:01,542
@@ -48,7 +46,7 @@ Ada duka yang mendalam malam ini di Highland Park, kota asal Aaron Swartz
 10
 00:01:14,909 --> 00:01:18,800
 as loved ones say goodbye to one of the Internet's brightest lights
-sebagai orang yang dicintai, mengucapkan selamat tinggal kepada salah satu tokoh internet paling cemerlang
+orang-orang yang mencintainya, mengucapkan selamat tinggal kepada salah satu tokoh internet paling cemerlang
 
 11
 00:01:19,000 --> 00:01:22,247
@@ -83,7 +81,7 @@ Pemerintah memiliki keinginan yang tak terpuaskan untuk mengontrol
 17
 00:01:43,410 --> 00:01:49,076
 Raising questions of prosecutorial zeal and I would say even miscondut.
-Menimbulkan pertanyaan tentang tuntutan itu dan saya akan katakan, meskipun salah.
+Menimbulkan pertanyaan tentang tuntutannya dan saya akan katakan,
 
 18
 00:01:49,141 --> 00:01:54,600
@@ -93,32 +91,32 @@ Sudahkah kamu melihat ke masalah spesifik tersebut dan menyadari sesuatu?
 19
 00:01:57,700 --> 00:02:00,600
 Growing up, you know, I slowly had this process of realising
-Tumbuh, kau tahu, saya perlahan-lahan melalui proses ini
+Sambil tumbuh dan berkembang, saya perlahan-lahan melalui proses menyadari
 
 20
 00:02:00,683 --> 00:02:02,807
 that all the things around me, that people had told me
-itu semua yang terjadi di sekitar saya, orang-orang mengatakan kepada saya
+semua hal di sekitar saya, yang orang lain katakan kepada saya,
 
 21
 00:02:02,850 --> 00:02:06,189
 were just the natural way things were, the way things always would be.
-hal ini sesuatu yang normal, sudah sebagaimana mestinya.
+'Semua ini normal, sudah sebagaimana mestinya.'
 
 22
 00:02:06,225 --> 00:02:08,545
 They weren't natural at all. They were things that could be changed
-Itu semua bukan hal yang normal sama sekali. Masih bisa diubah.
+Tidak, itu semua bukan hal yang normal sama sekali. Masih bisa diubah.
 
 23
 00:02:08,589 --> 00:02:11,687
 and they were thing that more importantly were wrong and should change.
-dan mereka sesuatu yang salah dan harus berubah.
+dan semua ini salah dan harus berubah.
 
 24
 00:02:11,738 --> 00:02:14,516
 And once I realised that, there was really kind of no going back
-Dan kemudian saya menyadari bahwa tidak ada cara untuk kembali
+Dan kemudian saya menyadari bahwa saya tidak boleh mundur
 
 25
 00:02:15,000 --> 00:02:19,000
@@ -162,15 +160,13 @@ Tiga anak-anak yang lari kesana kemari setiap waktu, bikin masalah
 
 33
 00:02:51,600 --> 00:02:55,100
-Mom: No, no, no... Aaron!?
-Aaron: What?
-Mom: No, no, no... Aaron!?
-Aaron: Apa?
+Mom: No, no, no... Aaron!? Aaron: What?
+Mom: No, no, no... Aaron!? Aaron: Apa?
 
 34
 00:02:55,556 --> 00:03:00,807
 But, I've come to the realization: Aaron learned how to learn at a very young age
-Tapi, saya telah menyadarinya : Aaron sudah belajar sejak usia yang dini sekali
+Tapi syaa sadar : Aaron sudah belajar sejak usia yang dini sekali
 
 35
 00:03:06,500 --> 00:03:07,700
@@ -225,12 +221,12 @@ Suatu hari ia berkata kepada Susan:
 45
 00:03:34,523 --> 00:03:37,240
 "Let's do three family entertainment[?] downtown in the park"
-"Ayo kita lakukan pertunjukan tiga keluarga[?] di taman"
+"Ayo kita lakukan pertunjukan keluarga[?] di taman"
 
 46
 00:03:37,381 --> 00:03:40,000
 Three family entertainment[?] downtown in the park
-Pertunjukan tiga keluarga di taman
+Pertunjukan keluarga di taman
 
 47
 00:03:40,500 --> 00:03:42,000
@@ -250,7 +246,7 @@ Dia bilang : "Lihat, tertulis di kulkas"
 50
 00:03:47,054 --> 00:03:49,178
 "Three family entertainment[?] downtown in the park"
-"Pertunjukan tiga keluarga di taman"
+"Pertunjukan keluarga di taman"
 
 51
 00:03:49,200 --> 00:03:54,800
@@ -314,7 +310,7 @@ dan ia selalu seperti itu
 63
 00:04:42,800 --> 00:04:45,810
 Now I press button, click button
-Searang aku tekan tombolnya,
+Sekarang aku tekan tombolnya,
 
 64
 00:04:46,600 --> 00:04:50,500
@@ -374,14 +370,12 @@ Dia duduk bersamaku di basemen dimana komputer itu diletakkan
 75
 00:05:29,600 --> 00:05:32,500
 for hours programming this game
-untuk berjam-jam memrogram permainan ini
+berjam-jam memrogram permainan ini
 
 76
 00:05:34,880 --> 00:05:38,196
-The problem that I kept having with him is that
-there was nothing that I wanted done
-Satu-satunya masalah yang kumiliki dengannya adalah
-aku tak selalu ingin menyelesaikannya
+The problem that I kept having with him is that there was nothing that I wanted done
+Satu-satunya masalah yang kumiliki dengannya adalah aku tak selalu ingin menyelesaikannya
 
 77
 00:05:38,247 --> 00:05:41,563
@@ -435,10 +429,8 @@ tapi suka menyuruh orang lain untuk berdandan seperti yang dia suka
 
 87
 00:06:17,900 --> 00:06:20,200
-[?]
-Guys, come on, look at the camera
-[?]
-Hei, lihat ke kamera!
+[?] Guys, come on, look at the camera
+[?] Hei, ayo, lihat ke kamera!
 
 88
 00:06:24,130 --> 00:06:28,174
@@ -453,7 +445,7 @@ dimana orang-orang bisa menulis informasi apa pun
 90
 00:06:31,716 --> 00:06:34,734
 Like, I'm sure someone out there knows all about gold, gold leafing[?].
-Seperti, saya yakin ada seseorang di luar sana yang tahu banyak tentang emas [?]
+Saya yakin ada seseorang di luar sana yang tahu banyak tentang emas [?]
 
 91
 00:06:34,785 --> 00:06:36,661
@@ -528,7 +520,7 @@ Aku dan dan saudara yang lain merespon, "Yeah, tahulah si Aaron"
 105
 00:07:14,850 --> 00:07:19,800
 "Wikipedia is cool but we had that in our house, like 5 years ago"
-"Wikipedia keren, tapi kamu sudah punya yang seperti itu di rumah kami, 5 tahun sebelumnya"
+"Wikipedia keren, tapi kami sudah punya yang seperti itu di rumah kami, 5 tahun sebelumnya"
 
 106
 00:07:21,490 --> 00:07:25,770
@@ -573,7 +565,7 @@ Dia punya konsep baru, "Ben, aku sedang mengerjakan hal keren"
 114
 00:07:55,767 --> 00:07:57,700
 "you need to hear about it"
-"kau harus dengar ini"
+"Kau harus dengar ini"
 
 115
 00:07:57,760 --> 00:07:58,800
@@ -743,12 +735,12 @@ dan kamu akan kagum dengan kualitas debat
 148
 00:09:57,949 --> 00:10:01,000
 emerging from what appeared to be a small boy's mouth
-yang keluar dari mulut anak kecil ini
+yang keluar dari mulut anak ini
 
 149
 00:10:01,061 --> 00:10:04,600
 and you think, this is a kid, is really going to go somewhere if he doesn't die of scroovy[?]
-dan kamu berpikir, anak kecil ini, dia akan pergi kemana saja jika saja tidak tewas karena semangatnya [?]
+dan kamu berpikir, anak ini, dia akan pergi kemana saja jika saja tidak tewas karena semangatnya [?]
 
 150
 00:10:04,720 --> 00:10:05,927
@@ -788,12 +780,12 @@ Dia seperti punya kepribadian alpha-male, mendominasi
 157
 00:10:25,410 --> 00:10:27,701
 "I'm smarter than you, and because I'm smarter than you
-"Aku lebih pintar darimu, karena aku lebih pintar darimu
+"Aku lebih pintar darimu, karena aku lebih pintar darimu"
 
 158
 00:10:27,723 --> 00:10:29,700
 I'm better than you, and I can tell you what to do"
-Aku lebih baik darimu dan aku bisa menyuruhmu apa yang harus dilakukan
+"Aku lebih baik darimu dan aku bisa menyuruhmu apa yang harus dilakukan"
 
 159
 00:10:30,007 --> 00:10:34,500
@@ -818,7 +810,7 @@ Saya pertama kali bertemu dengannya di IRC (Internet Relay Chat) dan dia tak han
 163
 00:10:49,650 --> 00:10:55,600
 he also got people excited about solving problems, he was a connector
-ia membuat orang lain antusias menyelesaikan masala-masalah, ia adalah penghubung
+ia membuat orang lain antusias menyelesaikan masalah-masalah, ia adalah penghubung
 
 164
 00:10:55,658 --> 00:10:58,300
@@ -827,10 +819,8 @@ gerakan free culture, yang mana banyak menghabiskan energinya
 
 165
 00:10:58,356 --> 00:11:03,600
-I think Aaron was trying to make the world work.
-He was trying to fix it
-Kupikir, Aaron sedang mencoba membuat dunia ini bekerja dengan semestinya
-Ia berusaha memperbaikinya
+I think Aaron was trying to make the world work. He was trying to fix it
+Kupikir, Aaron sedang mencoba membuat dunia ini bekerja dengan semestinya. Ia berusaha memperbaikinya
 
 166
 00:11:03,800 --> 00:11:05,970
@@ -845,7 +835,7 @@ yang tentu saja membingungkan [?]
 168
 00:11:08,705 --> 00:11:13,500
 and wasn't necessarily the case that he was always confortable in the world
-dan tidak begitu perlu sementara ia selalu nyaman dengan dunia ini
+dan tidak begitu [?],  ia selalu nyaman dengan dunia ini
 
 169
 00:11:13,556 --> 00:11:16,000
@@ -880,22 +870,22 @@ Dia bilang, dia tidak perlu menemui guru-gurunya untuk memahami geometry
 175
 00:11:34,320 --> 00:11:36,640
 I can just read the geometry book
-Aku baca saja buku geometry, kelar
+"Aku baca saja buku geometry, kelar"
 
 176
 00:11:36,683 --> 00:11:41,134
 and I don't need to go to the teacher to learn their version of American history
-dan aku tidak akan menemui guru-guruku hanya untuk mempelajari sejarah Amerika versi mereka
+"Dan aku tidak akan menemui guru-guruku hanya untuk mempelajari sejarah Amerika versi mereka"
 
 177
 00:11:41,454 --> 00:11:45,800
 I have like three historical compilations here like I can just read them
-Aku punya tiga kompilasi sejarah di sini yang aku bisa baca.
+"Aku punya tiga kompilasi sejarah di sini yang aku bisa baca."
 
 178
 00:11:45,840 --> 00:11:48,800
 and I'm not interested in that, I'm interested in the Web
-dan aku tidak tertarik dengann itu, aku tertarik dengan teknologi Web
+"Dan aku tidak tertarik dengan itu, aku tertarik dengan teknologi Web"
 
 179
 00:11:49,000 --> 00:11:50,600
@@ -947,7 +937,7 @@ ketimbang menelan fakta-fakta yang diceritakan guru-guru mereka
 188
 00:12:14,900 --> 00:12:17,556
 and that kind of led me down this path of questioning things
-dan ini mejadikan saya mempertanyakan hal-hal lain
+dan ini mejadikan aku mempertanyakan hal-hal lain
 
 189
 00:12:17,650 --> 00:12:21,527
@@ -967,7 +957,7 @@ aku mempertanyakan pemerintah yang, kamu tahu, yang mengatur seluruh struktur ma
 192
 00:12:28,021 --> 00:12:30,465
 One of the themes he was more passionate about was copyright,
-Salahs satu topik yang membuatnya sangat tertarik adalah tentang hak cipta
+Salah satu topik yang membuatnya sangat tertarik adalah tentang hak cipta
 
 193
 00:12:30,494 --> 00:12:31,760
@@ -977,7 +967,7 @@ terutama pada waktu awal-awal dulu
 194
 00:12:31,840 --> 00:12:37,236
 Copyright has always been something overburden on publishing industry and on readers
-Hak cipta selalu menjadi sesuatu yang membebani indurstri penerbitan, dan untuk pembacanya
+Hak cipta selalu menjadi sesuatu yang membebani industri penerbitan, dan untuk pembacanya
 
 195
 00:12:38,181 --> 00:12:41,069
@@ -986,251 +976,308 @@ tapi itu bukan beban yang besar
 
 196
 00:12:41,100 --> 00:12:46,200
-it was a reasonable institution to have in place
-to make sure that people got paid
-masih masuk akal institusi berda di posisi tersebut
-untuk memastikan orang-orang dibayar atas hak mereka
+it was a reasonable institution to have in place to make sure that people got paid
+masih masuk akal sebuah institusi berada di posisi tersebut untuk memastikan orang-orang dibayar atas hak mereka
 
 197
 00:12:46,254 --> 00:12:50,100
 What Aaron generation experienced was the collision
+Apa yang dialamai anak muda yang segenerasi dengan Aaron adalah konflik
 
 198
 00:12:50,145 --> 00:12:52,800
 between this antique copyright system
+antara sistem hak cipta kuno ini
 
 199
 00:12:52,930 --> 00:12:56,560
 and this amazing new thing we were trying to build, the Internet and the Web
+dan hal baru yang menakjubkan yang kita coba bangun, adalah Internet dan Web
 
 200
 00:12:56,632 --> 00:13:00,000
 These things collided and what we got was chaos
+Internet, web dan hak cipta saling konflik dan kita dapatkan kekacauan (pembajakan, penyalahgunaan)
 
 201
 00:13:02,494 --> 00:13:05,400
 He then met Harward law professot Lawrence Lessig
+Lalu ia bertemu profesor hukum Harvard, Lawrence Lessig
 
 202
 00:13:05,476 --> 00:13:08,700
 who was then challenging copyright law in the supreme court
+yang kemudian menentang hukum hak cipta di pengadilan
 
 203
 00:13:08,900 --> 00:13:13,200
 A young Aaron Swartz flew to Washington to listen to the supreme court hearings
+Aaron Swartz muda terbang ke Washington untuk mendengarkan sesi pengadilan ini
 
 204
 00:13:13,287 --> 00:13:17,700
 I'm Aaron Swartz and I'm here to listen to the Eldred ...to see the Eldred argument
+Saya Aaron Swartz, dan saya di sini untuk mendengarkan Eldred, untuk melihat argumen-argumen Eldred
 
 205
 00:13:18,100 --> 00:13:23,000
 Why did you fly out here from Chicago and come all this way to see the Eldred argument?
+Mengapa kamu terbang dari Chicago ke sini hanya untuk mendengar pendapat Eldred?
 
 206
 00:13:23,200 --> 00:13:25,000
 That's a more difficult question
+Itu pertanyaan yang lebih sulit
 
 207
 00:13:30,000 --> 00:13:33,700
 I don't know, I'm very excited to see the supreme court
+Saya tidak tahu. Saya sangat gembira menghadiri pengadilan ini
 
 208
 00:13:33,800 --> 00:13:36,400
 especially in such a prestigious case as this one
+terutama untuk kasus istimewa ini
 
 209
 00:13:42,000 --> 00:13:46,600
 Lessig was also moving forward with a new way to define copyright on the Internet
+Lessig juga sudah bergerak dengan cara baru untuk mendefinisikan hak cipta di internet
 
 210
 00:13:46,900 --> 00:13:48,800
 it was called Creative Commons
+disebut, Creative Common
 
 211
 00:13:49,200 --> 00:13:51,800
 So the simple idea of Creative Commons is to give people, creators
+Jadi, ide sederhana dari Creative Commons adalah membantu orang-orang yang berkarya
 
 212
 00:13:53,000 --> 00:13:55,800
 a simple way to mark their creativity
+untuk memberikan cara sederhana dalam menandai karya mereka
 
 213
 00:13:56,000 --> 00:13:58,600
 with the freedoms they intended to carry
+dengan kebebasan yang mereka bawa
 
 214
 00:13:59,000 --> 00:14:01,700
 So copyright is about "all rights reserved"
+Jika hak cipta adalah tentang "Hak yang dilindungi"
 
 215
 00:14:01,900 --> 00:14:04,900
 then this is a kind of "some rights reserved" bottle[?]
+maka ini semacam "Sebagian hak dilindungi"
 
 216
 00:14:05,100 --> 00:14:08,400
 It's I want a simple way to say to you "here's what you can do with my work"
+Saya ingin cara sederhana untuk mengatakan ke kamu tentang "apa saja yang dapat kamu lakukan terhadap karya saya"
 
 217
 00:14:08,700 --> 00:14:12,800
 even if there are other things which you need to get my permission before you could do
+bahkan jika ada hal lain yang kamu butuhkan, yang memerlukan izin
 
 218
 00:14:13,300 --> 00:14:16,400
 And Aaron's role was the computer part
+Dan peran Aaron adalah di bagian komputer
 
 219
 00:14:16,600 --> 00:14:18,600
 like how do you architect the licenses
+seperti, bagaimana merancang lisensi-lisensi
 
 220
 00:14:18,800 --> 00:14:23,300
 so that would be simple and understandable and expressed in way that machines could process it
+sehingga lebih sederhana dan dapat dipahami dan dapat diekspresikan serta diproses oleh mesin/komputer
 
 221
 00:14:23,600 --> 00:14:26,800
 And people are like, why do you have this fifteen year old kid
+Dan orang-orang bertanya-tanya, mengapa kalian membiarkan anak 15 tahun ini
 
 222
 00:14:26,900 --> 00:14:29,000
 writing the specifications of creative commons?
+menulis spesifikasi Creative Commons?
 
 223
 00:14:29,400 --> 00:14:31,100
 like, don't you think that's a huge mistake?
+Tidakkah kalian pikir ini kesalahan besar?
 
 224
 00:14:31,200 --> 00:14:34,600
 and larry is like: "the biggest mistake that we would have is not listening to this kid"
+dan Larry bilang, "Kesalahan terbesarnya adalah jika kita tidak mendengarkannya."
 
 225
 00:14:35,700 --> 00:14:39,200
 embarrassing[?] is not even tall enough to get over the podium
+memalukan, bahkan dia tidak cukup tinggi untuk berdiri di podium
 
 226
 00:14:39,400 --> 00:14:41,300
 and it wasn't one of those movable podiums
+dan itu bukan podium yang bisa dipindah-pindah
 
 227
 00:14:41,500 --> 00:14:45,600
 so this embarrassing thing that once he put his screen up nobody could see his face
+hal memmalukan lain, setelah layar presentasinya hidup, tak seorang pun bisa melihat wajahnya
 
 228
 00:14:45,900 --> 00:14:49,000
 When we come to our website here
+Saat kita mengunjungi situs web ini
 
 229
 00:14:49,300 --> 00:14:50,500
 and we've got few licences
+kita akan mendapati beberapa lisensi
 
 230
 00:14:50,900 --> 00:14:54,600
 it gives you this list of options explaining what it means
+ada daftarnya, masing-masing menjelaskan maksud lisensinya
 
 231
 00:14:54,900 --> 00:14:57,200
 and we thought three set of questions
+dan kami mendasarkannya pada tiga pertanyaan
 
 232
 00:14:57,500 --> 00:14:59,600
 Do you want to require attribution?
+Apakah kamu menginginkan atribusi?
 
 233
 00:14:59,900 --> 00:15:02,600
 Do you want to allow commercial uses of your work?
+Apakah kamu mengizinkan penggunaan komersil atas karyamu?
 
 234
 00:15:02,900 --> 00:15:05,700
 Do you want to allow modifications of your work?
+Apakah kamu mengizinkan modifikasi atas karyamu?
 
 235
 00:15:05,800 --> 00:15:06,900
 I was floored
+Saya mengalah
 
 236
 00:15:07,400 --> 00:15:11,800
 just completely fiberglassed that these adults regarded him as an adult
+orang-orang dewasa menghormatinya seperti ia sendiri sudah dewasa
 
 237
 00:15:12,000 --> 00:15:14,800
 Aaron stood up there in front an whole audience full of people
+Aaron berdiri di sana, di depan audien yang ramai
 
 238
 00:15:15,000 --> 00:15:20,000
 and just started talking about the platform that he created for Creative Commons
+dan mulai berbicara tentang platform untuk Creative Commons
 
 239
 00:15:20,200 --> 00:15:22,800
 And they where all listening to him, just
+Dan mereka semua mendengarkan dia, pokoknya
 
 240
 00:15:23,000 --> 00:15:28,600
-I was sitting AT the back thinking:
-"he's just a kid, why're listening to him?"
+I was sitting AT the back thinking: "he's just a kid, why're listening to him?"
+Saya duduk di belakang dan berpikir, "dia cuma anak kecil, mengapa kita mendengarkannya?"
 
 241
 00:15:28,800 --> 00:15:29,700
 but they did
+tapi mereka benar-benar mendengarkan anak ini
 
 242
 00:15:29,900 --> 00:15:32,400
 well I don't think I comprehended it fully
+Yah, saya tidak benar-benar memahaminya.
 
 243
 00:15:32,600 --> 00:15:37,000
 Though critics have said that it does little to ensure artists get payed for their work
+Meskipun banyak kritik yang mengatakan CC tidak membuat orang-orang dibayar atas kerja/karya mereka,
 
 244
 00:15:37,200 --> 00:15:40,000
 the success of Creative Commons has been enourmous
+keberhasilan Creative Commons sangat besar.
 
 245
 00:15:40,200 --> 00:15:46,700
 Currently on the website flickr alone over 200 million people use some form of Creative Commons license
+Saat ini, di situs web Flickr sendiri, ada lebih dari 200 juta orang yang menggunakan format lisensi Creative Commons
 
 246
 00:15:46,800 --> 00:15:51,400
 He contributed through his technical abilities
+Ia berkontribusi menggunakan kemampuan teknisnya
 
 247
 00:15:51,600 --> 00:15:56,600
 and yet it was not simply a technical matter to him
+dan buatnya, semua ini bukan tentang hal teknis
 
 248
 00:15:57,600 --> 00:16:00,600
 Aaron Often wrote candidly in his personal blog
+Aaron kadang-kadang menulis dengan terus terang di blog personalnya
 
 249
 00:16:01,300 --> 00:16:05,600
 I think deeply about things and I want others to do likewise.
+Aku berpikir mendalam tentang beberapa hal dan aku ingin orang lain melakukan hal yang sama
 
 250
 00:16:06,500 --> 00:16:10,800
 I work for ideas and learn from people. I don’t like excluding people.
+Aku bekerja dengan ide-ide dan belajar dari orang lain. Aku tidak suka mengecualikan orang-orang.
 
 251
 00:16:11,000 --> 00:16:14,800
 I’m a perfectionist, but I won’t let that get in the way of publication.
+Aku seorang perfeksionis namun aku tidak akan membiarkan ini masuk publikasi
 
 252
 00:16:15,200 --> 00:16:21,300
 Except for education and entertainment, I’m not going to waste my time on things that won’t have impact.
+Kecuali untuk pendidikan dan hiburan, aku tidak akan menghabiskan waktuku untuk hal-hal yang tidak menghasilkan dampak besar
 
 253
 00:16:21,400 --> 00:16:25,800
 I try to be friends with everyone, but I hate it when you don’t take me seriously.
+Aku berusaha berteman dengan semua orang, tapi aku benci jika kamu tidak menganggapku serius.
 
 254
 00:16:26,500 --> 00:16:31,800
 I don’t hold grudges (it’s not productive) but I learn from my experience.
+Aku tidak pernah menyimpan dendam (ini tindakan yang tidak produktif) namun aku belajar dari pengalamanku
 
 255
 00:16:32,200 --> 00:16:36,000
 I want to make the world a better place.
+Aku ingin membuat dunia ini jadi tempat yang lebih baik lagi
 
 256
 00:16:40,700 --> 00:16:45,700
 In 2004 Swartz leaves Highland Park and enrolls in Stanford University
+Pada tahun 2004, Swartz meninggalkan Highland Park dan masuk ke Universitas Stanford
 
 257
 00:16:46,000 --> 00:16:49,800
