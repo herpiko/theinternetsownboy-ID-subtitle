@@ -1,4 +1,4 @@
-﻿<img src="https://travis-ci.org/herpiko/theinternetsownboy-thestoryofaaronswartz-bahasa-indonesia-subtitle.svg?branch=master">
+﻿<img src="https://travis-ci.org/herpiko/theinternetsownboy-ID-subtitle.svg?branch=master">
 
 ### Kontribusi
 
