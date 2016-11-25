@@ -4856,7 +4856,7 @@ lebih banyak akses, lebih banyak diskusi, lebih banyak debat.
 1110
 01:09:34,741 --> 01:09:38,261
 aut instead it seems, what Congress is foccussed on is shutting the things down,
-tetapi tampaknya, yang kongres fokuskan pada menutup segalanya,
+tetapi tampaknya, yang kongres fokuskan pada menutupnya,
 
 1111
 01:09:38,515 --> 01:09:40,426
@@ -4876,103 +4876,127 @@ FLAME benar-benar bisa mengontrol komputermu dan membuatnya memata-mataimu.
 1114
 01:09:48,960 --> 01:09:52,020
 Welcome Aaron, good to have you back on the show here.
-
+Selamat datang, Aaron, senang kamu kembali ke acara ini.
 
 1115
 01:09:52,060 --> 01:09:54,106
 You know, just like spies used to, in olden days,
+ya, seperti yang mata-mata gunakan, di masa lalu,
 
 1116
 01:09:54,370 --> 01:09:56,373
 put microphones and tap what people are saying,
+menggunakan mikrofon dan menyadap yang orang katakan,
 
 1117
 01:09:56,373 --> 01:09:58,784
 now they are using computers to do the same things.
+sekarang mereka menggunakan komputer untuk hal yang sama.
 
 1118
 01:09:59,253 --> 01:10:01,621
 Swartz's political activity continues,
+aktifitas politik Swartz berlanjut,
 
 1119
 01:10:01,777 --> 01:10:06,840
 his attention turning to a bill moving through Congress designed to curb online piracy.
+perhatiannya untuk beralih kepada rancangan undang-undang melalui kongres yang didisain untuk mengekang pembajakan online
 
 1120
 01:10:06,848 --> 01:10:08,896
 It was called SOPA.
+yang disebut SOPA.
 
 1121
 01:10:09,200 --> 01:10:12,951
 Activists like Peter Eckersley saw it as an enormous over reach,
+Aktifis seperti Peter Eckersley melihat hal tersebut sebagai sesuatu yang sulit dicapai [?]
 
 1122
 01:10:13,084 --> 01:10:15,884
 threatening the technical integrity of Internet itself.
+mengancam integritas teknis internet itu sendiri.
 
 1123
 01:10:15,893 --> 01:10:18,218
 In one of the first things I did was to call Aaron,
+Salah satu hal yang pertama saya lakukan adalah menghubungi Aaron,
 
 1124
 01:10:18,240 --> 01:10:21,900
 and I said can we do a big online campaign against this,
+dan saya katakan bahwa kita bisa melakukan kampanye daring yang besar untuk melawan ini,
 
 1125
 01:10:21,955 --> 01:10:24,040
 This isn't a bill about copyright,
+Ini bukan undang-undang tentang hak cipta,
 
 1126
 01:10:25,109 --> 01:10:25,941
 It's not?
+Iya, kan?
 
 1127
 01:10:26,355 --> 01:10:29,930
 No, he said. It's a bill about the freedom to connect.
+Tidak, katanya. Itu undang-undang tentang kebebasan menghubungkan.
 
 1128
 01:10:30,533 --> 01:10:31,671
 Now I was listening.
+Sekarang saya mengerti.
 
 1129
 01:10:32,177 --> 01:10:35,608
 And he thought about it for a while and then said yes,
+dan dia berfikir tentang hal tersebut sebentar dan mengtakan ya,
 
 1130
 01:10:35,715 --> 01:10:38,008
 and he went and founded Demand Progress.
+dan dia pergi dan mendirikan Demand Progress.
 
 1131
 01:10:38,400 --> 01:10:40,693
 Demand Progress in an online activism organization.
+Demand Progress adalah organisasi aktivisme daring.
 
 1132
 01:10:40,720 --> 01:10:44,240
 We got around a million and half member now.
+Sekarang kita memiliki, kira-kira, satu juta setengah anggota.
 
 1133
 01:10:44,355 --> 01:10:47,182
 But started in the fall on 2010.
+Tapi mulai musim gugur pada tahun 2010
 
 1134
 01:10:47,297 --> 01:10:49,306
 Aaron was one of the most prominent people
+Aaronf menjadi salah satu orang yang terkemuka
 
 1135
 01:10:49,342 --> 01:10:51,937
 in a community of people who helped lead organizing
+di antara komunitas orang-orang yang membantu memimpin pengorganisasian
 
 1136
 01:10:52,053 --> 01:10:55,330
 around social justice issues at the federal level in this country.
+sekitar isu keadilan sosial di tingkat federal di negara ini.
 
 1137
 01:10:55,760 --> 01:11:01,440
 SOPA was the bill that was intended to curtail online piracy of music and movies,
+SOPA adalah undang-undang yang dimaksudkan untuk mengurangi pembajakan musik dan film daring,
 
 1138
 01:11:01,480 --> 01:11:04,897
 but what it did was basically take a sledge hammer
+
 
 1139
 01:11:04,924 --> 01:11:07,060
