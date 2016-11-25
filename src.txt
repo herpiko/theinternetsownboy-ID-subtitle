@@ -4741,114 +4741,142 @@ Mereka memiliki otoritas moral untuk menghentikannya pada jalurnya.
 1087
 01:07:56,186 --> 01:08:00,780
 MIT never stood up and took a position of saying to the Feds:
+MIT tidak pernah mengambil sikap untuk mengatakan kepada FBI:
 
 1088
 01:08:00,980 --> 01:08:03,902
 "Don't do this. We dont want you to do this
+"Jangan lakukan ini. Kita tidak ingin kalian melakukan ini
 
 1089
 01:08:03,937 --> 01:08:07,280
 you are over reacting, this is too strong" , that I'm aware of.
+kalian berlebihan, ini terlalu kuat", itu yang aku sadari.
 
 1090
 01:08:08,800 --> 01:08:12,506
 They acted kind of like any corporation would.
+Mereka bertindak seperti perusahaan lain.
 
 1091
 01:08:12,551 --> 01:08:15,680
 They helped the government and they didn't help us,
+Mereka membantu pemerintah dan mereka tidak membantu kami,
 
 1092
 01:08:15,680 --> 01:08:21,418
 unless they felt that they had to and they never tried to stop it.
+setidaknya mereka merasa harus, tapi mereka tidak pernah mencoba menghentikannya.
 
 1093
 01:08:22,442 --> 01:08:25,216
 MIT declined repeated requests to comment.
+MIT menolak berkomentar tentang permintaan tersebut.
 
 1094
 01:08:25,216 --> 01:08:30,208
 but they later released a report saying that they attempted to maintain a position of neutrality
+tapi kemudian mereka merilis laporan yang mengatakan bahwa mereka mencoba mempertahankan posisi netral
 
 1095
 01:08:30,208 --> 01:08:35,520
 and believed Heymann and US Attorney's office did not care what MIT thought or said about the case.
+dan percaya Hermann dan kantor AS Attorney tidak peduli apa yang MIT pikirkan atau katakan tentang kasus tersebut
 
 1096
 01:08:35,861 --> 01:08:41,472
 MIT's behaviour seemed really at odds with the MIT ethos.
+perilaku MIT tampak benar-benar bertentangan dengan etos MIT.
 
 1097
 01:08:42,069 --> 01:08:47,274
 You could argue that MIT turned a blind eye and that was okay for them to do
+kamu bisa berpendapat bahwa MIT menutup mata dan bagi mereka itu baik-baik
 
 1098
 01:08:47,445 --> 01:08:52,757
 but taking that stance, taking that neutral stance in itself was taking a pro-prosecutor stance.
+tetapi mengambil sikap tersebut, mengambil sikap netral tersebut sendiri adalah mengambil sikap pro-jaksa.
 
 1099
 01:08:52,757 --> 01:08:58,922
 If you look at Steve Jobs and Steve Wozniack, they started by selling a bluebox
+Jika Anda lihat Steve Jobs dan Steve Wozniack, mereka mulai dengan menjuan bluebox
 
 1100
 01:08:58,922 --> 01:09:01,610
 which was a thing designed to defraud the phone company.
+dimana itu sesuatu yang didisain untuk menipu perusahaan telepon.
 
 1101
 01:09:01,710 --> 01:09:04,506
 If you look at Bill Gates and Paul Allen,
+Jika kita lihat Bill Gates dan Paul Allen,
 
 1102
 01:09:04,551 --> 01:09:08,728
 they initially started their buisness by using computer time at Harvard
+Mereka diam-diam memulai bisnis mereka dengan menggunakan waktu komputer di Harvad
 
 1103
 01:09:08,826 --> 01:09:11,093
 which was pretty clearly against the rules.
+dimana hal itu cukup jelas melanggar aturan.
 
 1104
 01:09:11,140 --> 01:09:13,431
 Difference between Aaron and people that I just mentioned
+Perbedaan antara Aaron dan orang-orang yang tadi saya sebutkan
 
 1105
 01:09:13,466 --> 01:09:16,690
 is that Aaron wanted to make the world a better place, he didn't want to just make money.
+adalah bahwa Aaron ingin membuat dunia menjadi tempat yang lebih baik, dia tidak hanya ingin mencari uang.
 
 1106
 01:09:19,244 --> 01:09:23,300
 Swartz continues to be outspoken on variety of Internet Issues.
+Swartz lajut berterus terang tentang berbagai isu internet.
 
 1107
 01:09:23,440 --> 01:09:28,590
 You know  the reason Internet works is because of the competitive marketplace of ideas.
+Ya, alasan internet bekerja adalah karena itu adalah pasar kompetitif ide.
 
 1108
 01:09:28,590 --> 01:09:31,804
 and what we need to be focussing on is getting more information about our government
+dan yang kita harus fokuskan adalah mendapatkan lebih banyak informasi tentang pemerintah
 
 1109
 01:09:31,848 --> 01:09:34,540
 more accessability, more discussion, more debate.
+lebih banyak akses, lebih banyak diskusi, lebih banyak debat.
 
 1110
 01:09:34,741 --> 01:09:38,261
 aut instead it seems, what Congress is foccussed on is shutting the things down,
+tetapi tampaknya, yang kongres fokuskan pada menutup segalanya,
 
 1111
 01:09:38,515 --> 01:09:40,426
 Aaron thought that he could change the world
+Aaron berfikir bahwa dia bisa mengubah dunia
 
 1112
 01:09:40,488 --> 01:09:44,071
 just by explaining the world very clearly to people.
+hanya dengan menjelaskan dunia dengan sangat selas kepada masyarakat.
 
 1113
 01:09:44,346 --> 01:09:48,920
 FLAME can literally control your computer and make it spy on you.
+FLAME benar-benar bisa mengontrol komputermu dan membuatnya memata-mataimu.
 
 1114
 01:09:48,960 --> 01:09:52,020
 Welcome Aaron, good to have you back on the show here.
+
 
 1115
 01:09:52,060 --> 01:09:54,106
