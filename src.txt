@@ -4666,32 +4666,32 @@ dan tidak ingin hal ini kembali dan terus menghantuinya
 1072
 01:06:53,502 --> 01:06:57,617
 you spent how many tax dollars arresting someone for taking too many books out of the library
-Kamu menghabiskan begitu banyak uang pajak sambil menangkap seseorang karena mengambil banyak buku dari perpustakaan
+Kamu menghabiskan begitu banyak uang pajak untuk menangkap seseorang hanya karena ia mengambil terlalu banyak buku dari perpustakaan
 
 1073
 01:06:57,898 --> 01:07:00,970
 and got your ass handed to you in court. No way!
-dan kamu hancur di pengadilan, Tidak!
+dan kamu kalah di pengadilan. Tidak mungkin!
 
 1074
 01:07:00,970 --> 01:07:04,648
 I then moved to try and put pressure on MIT in various ways
-kemudian saya coba menekan MIT dengan berbagai cara
+Kemudian saya coba menekan MIT dengan berbagai cara
 
 1075
 01:07:04,684 --> 01:07:06,355
 to get them to go to the government
-agar mereka pergi ke pemerintah
+agar mereka bilang ke pemerintah
 
 1076
 01:07:06,391 --> 01:07:10,071
 and request the government to stop the prosecution.
-dan meminta pemerintah untuk menghentikan penuntutan.
+minta pemerintah untuk menghentikan penuntutan.
 
 1077
 01:07:11,217 --> 01:07:13,360
 Interviewer: What was MIT's reaction then?
-Pewawancara: Apa reaksi MIT selanjutnya?
+Pewawancara: Apa reaksi MIT?
 
 1078
 01:07:14,275 --> 01:07:17,520
@@ -4706,37 +4706,37 @@ MIT tidak membela Aaron,
 1080
 01:07:25,910 --> 01:07:30,497
 which to people inside of IT community seems outrageous,
-dimana bagi orang-orang di komunitas IT terlihat memalukan,
+hal ini sangat memalukan di mata komunitas IT
 
 1081
 01:07:30,542 --> 01:07:35,700
 because MIT is a place that encourages hacking in the biggest sense of the word.
-karena MIT adalah tempat yang mendorong "hacking" dalam arti kata paling besar.
+karena MIT adalah tempat dimana hacking sangat membudaya.
 
 1082
 01:07:35,900 --> 01:07:39,715
 At MIT the idea of going and running around in routes and tunnels
-Di MIT, gagasan untuk pergi dan lari di rute dan terowongan
+Di MIT, ide dan inovasi keluar dan berputar di router dan tunnel
 
 1083
 01:07:39,751 --> 01:07:43,457
 that you weren't allowed to be in, was not only a rite of passage,
-yang bagimu tidak boleh dimasuki bukan hanya sebuah ritual,
+yang tidak boleh kamu masuki, ini bukan hanya ritual,
 
 1084
 01:07:43,733 --> 01:07:45,870
 it was part of the MIT tour,
-itu adalah bagian dari tur MIT,
+itu adalah bagian dari tur di MIT,
 
 1085
 01:07:45,877 --> 01:07:49,952
 ,nd lock picking was a winter course at MIT.
-dan "lock picking" adalah kursus musim dingin di MIT.
+"membuka kunci dengan pin" (lock picking) adalah kursus musim dingin di MIT
 
 1086
 01:07:50,990 --> 01:07:56,074
 They had the moral authority to stop it in its tracks.
-Mereka memiliki otoritas moral untuk menghentikannya pada jalurnya.
+Mereka memiliki otoritas moral untuk menghentikan kasus Aaron
 
 1087
 01:07:56,186 --> 01:08:00,780
@@ -4746,17 +4746,17 @@ MIT tidak pernah mengambil sikap untuk mengatakan kepada FBI:
 1088
 01:08:00,980 --> 01:08:03,902
 "Don't do this. We dont want you to do this
-"Jangan lakukan ini. Kita tidak ingin kalian melakukan ini
+"Jangan lakukan ini. Kami tidak ingin kalian melakukan ini
 
 1089
 01:08:03,937 --> 01:08:07,280
 you are over reacting, this is too strong" , that I'm aware of.
-kalian berlebihan, ini terlalu kuat", itu yang aku sadari.
+kalian berlebihan, ini keterlaluan", itu yang aku sadari.
 
 1090
 01:08:08,800 --> 01:08:12,506
 They acted kind of like any corporation would.
-Mereka bertindak seperti perusahaan lain.
+Mereka bertindak seperti yang akan dilakukan perusahaan-perusahaan lain.
 
 1091
 01:08:12,551 --> 01:08:15,680
@@ -4771,57 +4771,57 @@ setidaknya mereka merasa harus, tapi mereka tidak pernah mencoba menghentikannya
 1093
 01:08:22,442 --> 01:08:25,216
 MIT declined repeated requests to comment.
-MIT menolak berkomentar tentang permintaan tersebut.
+MIT berulang kali menolak berkomentar tentang hal ini.
 
 1094
 01:08:25,216 --> 01:08:30,208
 but they later released a report saying that they attempted to maintain a position of neutrality
-tapi kemudian mereka merilis laporan yang mengatakan bahwa mereka mencoba mempertahankan posisi netral
+tapi kemudian mereka menyatakan bahwa mereka mencoba mempertahankan posisi netral dalam kasus ini
 
 1095
 01:08:30,208 --> 01:08:35,520
 and believed Heymann and US Attorney's office did not care what MIT thought or said about the case.
-dan percaya Hermann dan kantor AS Attorney tidak peduli apa yang MIT pikirkan atau katakan tentang kasus tersebut
+dan mereka percaya Hermann dan kantor pengacara AS tidak peduli tentang pendapat MIT terhadap kasus ini
 
 1096
 01:08:35,861 --> 01:08:41,472
 MIT's behaviour seemed really at odds with the MIT ethos.
-perilaku MIT tampak benar-benar bertentangan dengan etos MIT.
+perilaku MIT tampak benar-benar bertentangan dengan prinsip-prinsip MIT sendiri.
 
 1097
 01:08:42,069 --> 01:08:47,274
 You could argue that MIT turned a blind eye and that was okay for them to do
-kamu bisa berpendapat bahwa MIT menutup mata dan bagi mereka itu baik-baik
+kamu bisa berargumen bahwa MIT menutup mata seolah semua baik-baik saja
 
 1098
 01:08:47,445 --> 01:08:52,757
 but taking that stance, taking that neutral stance in itself was taking a pro-prosecutor stance.
-tetapi mengambil sikap tersebut, mengambil sikap netral tersebut sendiri adalah mengambil sikap pro-jaksa.
+tetapi mengambil sikap yang seperti itu, mengambil sikap netral di sini artinya mendukung dan berpihak ke penuntut umum.
 
 1099
 01:08:52,757 --> 01:08:58,922
 If you look at Steve Jobs and Steve Wozniack, they started by selling a bluebox
-Jika Anda lihat Steve Jobs dan Steve Wozniack, mereka mulai dengan menjuan bluebox
+Lihat Steve Jobs dan Steve Wozniack, mereka mulai dengan menjual bluebox
 
 1100
 01:08:58,922 --> 01:09:01,610
 which was a thing designed to defraud the phone company.
-dimana itu sesuatu yang didisain untuk menipu perusahaan telepon.
+yang dirancang untuk mencurangi perusahaan telepon
 
 1101
 01:09:01,710 --> 01:09:04,506
 If you look at Bill Gates and Paul Allen,
-Jika kita lihat Bill Gates dan Paul Allen,
+Lihat Bill Gates dan Paul Allen,
 
 1102
 01:09:04,551 --> 01:09:08,728
 they initially started their buisness by using computer time at Harvard
-Mereka diam-diam memulai bisnis mereka dengan menggunakan waktu komputer di Harvad
+Mereka diam-diam memulai bisnis mereka dengan menggunakan komputer milik Harvad
 
 1103
 01:09:08,826 --> 01:09:11,093
 which was pretty clearly against the rules.
-dimana hal itu cukup jelas melanggar aturan.
+yang jelas-jelas melanggar aturan
 
 1104
 01:09:11,140 --> 01:09:13,431
@@ -4831,22 +4831,23 @@ Perbedaan antara Aaron dan orang-orang yang tadi saya sebutkan
 1105
 01:09:13,466 --> 01:09:16,690
 is that Aaron wanted to make the world a better place, he didn't want to just make money.
-adalah bahwa Aaron ingin membuat dunia menjadi tempat yang lebih baik, dia tidak hanya ingin mencari uang.
+adalah bahwa Aaron ingin membuat dunia ini menjadi tempat yang lebih baik, dia tidak menginginkan uang
 
 1106
 01:09:19,244 --> 01:09:23,300
 Swartz continues to be outspoken on variety of Internet Issues.
-Swartz lajut berterus terang tentang berbagai isu internet.
+Swartz masih terus bersuara tentang berbagai isu internet.
 
 1107
 01:09:23,440 --> 01:09:28,590
 You know  the reason Internet works is because of the competitive marketplace of ideas.
-Ya, alasan internet bekerja adalah karena itu adalah pasar kompetitif ide.
+Salah satu lasan internet bekerja adalah internet merupakan pasar ide yang kompetitif
+
 
 1108
 01:09:28,590 --> 01:09:31,804
 and what we need to be focussing on is getting more information about our government
-dan yang kita harus fokuskan adalah mendapatkan lebih banyak informasi tentang pemerintah
+dan kita harus fokus mengumpulkan informasi tentang pemerintah kita
 
 1109
 01:09:31,848 --> 01:09:34,540
@@ -4856,7 +4857,7 @@ lebih banyak akses, lebih banyak diskusi, lebih banyak debat.
 1110
 01:09:34,741 --> 01:09:38,261
 aut instead it seems, what Congress is foccussed on is shutting the things down,
-tetapi tampaknya, yang kongres fokuskan pada menutupnya,
+namun tampaknya, apa yang menjadi fokus Congress adalah menutup layanan-layanan di internet
 
 1111
 01:09:38,515 --> 01:09:40,426
@@ -4866,12 +4867,12 @@ Aaron berfikir bahwa dia bisa mengubah dunia
 1112
 01:09:40,488 --> 01:09:44,071
 just by explaining the world very clearly to people.
-hanya dengan menjelaskan dunia dengan sangat selas kepada masyarakat.
+hanya dengan menjelaskan dunia dengan gamblang kepada masyarakat.
 
 1113
 01:09:44,346 --> 01:09:48,920
 FLAME can literally control your computer and make it spy on you.
-FLAME benar-benar bisa mengontrol komputermu dan membuatnya memata-mataimu.
+FLAME benar-benar bisa mengontrol komputermu dan memata-mataimu.
 
 1114
 01:09:48,960 --> 01:09:52,020
@@ -4881,12 +4882,12 @@ Selamat datang, Aaron, senang kamu kembali ke acara ini.
 1115
 01:09:52,060 --> 01:09:54,106
 You know, just like spies used to, in olden days,
-ya, seperti yang mata-mata gunakan, di masa lalu,
+ya, seperti yang biasa dilakukan mata-mata, di masa lalu,
 
 1116
 01:09:54,370 --> 01:09:56,373
 put microphones and tap what people are saying,
-menggunakan mikrofon dan menyadap yang orang katakan,
+menggunakan mikrofon dan menyadap apa pun yang orang-orang katakan,
 
 1117
 01:09:56,373 --> 01:09:58,784
@@ -4901,7 +4902,7 @@ aktifitas politik Swartz berlanjut,
 1119
 01:10:01,777 --> 01:10:06,840
 his attention turning to a bill moving through Congress designed to curb online piracy.
-perhatiannya untuk beralih kepada rancangan undang-undang melalui kongres yang didisain untuk mengekang pembajakan online
+perhatiannya untuk beralih kepada rancangan undang-undang pajak yang disusun untuk mengekang pembajakan online
 
 1120
 01:10:06,848 --> 01:10:08,896
@@ -4951,22 +4952,22 @@ Sekarang saya mengerti.
 1129
 01:10:32,177 --> 01:10:35,608
 And he thought about it for a while and then said yes,
-dan dia berfikir tentang hal tersebut sebentar dan mengtakan ya,
+dan dia memikirkan hal itu sebentar, kemudian mengiyakan,
 
 1130
 01:10:35,715 --> 01:10:38,008
 and he went and founded Demand Progress.
-dan dia pergi dan mendirikan Demand Progress.
+dan dia segera mendirikan Demand Progress.
 
 1131
 01:10:38,400 --> 01:10:40,693
 Demand Progress in an online activism organization.
-Demand Progress adalah organisasi aktivisme daring.
+Demand Progress adalah organisasi aktivis daring.
 
 1132
 01:10:40,720 --> 01:10:44,240
 We got around a million and half member now.
-Sekarang kita memiliki, kira-kira, satu juta setengah anggota.
+Sekarang kami punya, kira-kira, satu setengah juta anggota.
 
 1133
 01:10:44,355 --> 01:10:47,182
@@ -4981,12 +4982,12 @@ Aaronf menjadi salah satu orang yang terkemuka
 1135
 01:10:49,342 --> 01:10:51,937
 in a community of people who helped lead organizing
-di antara komunitas orang-orang yang membantu memimpin pengorganisasian
+di antara orang-orang yang membantu memimpin pergerakan
 
 1136
 01:10:52,053 --> 01:10:55,330
 around social justice issues at the federal level in this country.
-sekitar isu keadilan sosial di tingkat federal di negara ini.
+terhadap isu keadilan sosial di tingkat federal di negara ini.
 
 1137
 01:10:55,760 --> 01:11:01,440
