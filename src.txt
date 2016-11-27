@@ -5670,223 +5670,277 @@ Hentikan PIPA! Hentikan SOPA!
 1271
 01:19:04,444 --> 01:19:07,370
 Some of the biggest Internet companies, to put it frankly, would benefit
+Beberapa dari perusahaan raksasa Internet, sebenarnya, akan mendapatkan keuntungan
 
 1272
 01:19:07,600 --> 01:19:11,160
 from a world in which the little competitors could get censored.
+dari dunia dimana kompetitor-kompetitor kecil mendapatkan sensor.
 
 1273
 01:19:12,524 --> 01:19:14,040
 We can't let that happen.
+Kita tidak bisa membiarkan itu terjadi.
 
 1274
 01:19:15,114 --> 01:19:19,125
 For him it was more important to be sure that you made a small change
+Buatnya, lebih penting untuk membuat perubahan kecil
 
 1275
 01:19:19,582 --> 01:19:22,640
 than to play a small part in a big change.
+dari pada memainkan peranan kecil dalam perubahan besar
 
 1276
 01:19:23,377 --> 01:19:26,990
 But SOPA was like playing a major part in a major change.
+Namun SOPA seperti pemain peran besar dalam perubahan besar
 
 1277
 01:19:27,351 --> 01:19:30,008
 and so for him it was kind of like his proof of concept.
+jadi, buatnya ini semacam pembuktian konsepnya
 
 1278
 01:19:30,862 --> 01:19:34,540
 Okay, you know, what I want to do with my life is to change the world.
+Oke, apa yang ingin kulakukan dengan hidupku adalah mengubah dunia ini.
 
 1279
 01:19:34,826 --> 01:19:40,074
 I think about it in this really scientific way of measuring my impact
+Aku memikirkannya secara ilmiah untuk mengukur dampaknya.
 
 1280
 01:19:40,186 --> 01:19:42,310
 and this shows that it is possible
+dan kemenangan ini menunjukkan bahwa mengubah dunia itu memungkinkan.
 
 1281
 01:19:42,528 --> 01:19:45,472
 right, the thing that I want to do with my life is possible.
+Hal yang ini kulakukan dengan hidupku masih memungkinkan.
 
 1282
 01:19:46,044 --> 01:19:50,860
 I have proved that I can do it. That I, Aaron Swartz, could change the world.
+Aku sudah membuktikan bahwa aku bisa melakukannya. Aku, Aaron Swartz, bisa mengubah dunia.
 
 1283
 01:19:50,869 --> 01:19:56,352
 For a guy who never really thought he had done much
+Orang yang tidak pernah menyadari bahwa ia telah berbuat sedemikian banyak
 
 1284
 01:19:56,672 --> 01:19:57,888
 which was Aaron.
+adalah Aaron.
 
 1285
 01:19:59,381 --> 01:20:02,517
 it was one of the few moments where you could really see
+ini salah satu dari beberapa momen dimana kamu bisa melihat
 
 1286
 01:20:03,925 --> 01:20:06,848
 that he felt like he had done something good.
+bahwa dia sedang merasa telah melakukan hal baik.
 
 1287
 01:20:06,890 --> 01:20:11,392
 feeling like here is his maybe one and only victory lap.
+merasa seolah-olah mendapatkan satu dan satu-satunya kemenangan.
 
 1288
 01:20:13,717 --> 01:20:16,341
 Everyone said that there was on way could we stop SOPA.
+Setiap orang bilang tidak ada cara untuk menghentikan SOPA.
 
 1289
 01:20:16,356 --> 01:20:22,025
 We stopped it. This are 3 outrageously good victories and the year isn't over yet.
+Kami menghentikannya. Ini adalah 3 kemenangan yang sangat baik dan tahun ini belum selesai
 
 1290
 01:20:22,025 --> 01:20:25,194
 I mean, if there is a time to be positive it's now.
+Maksudku, jika ada waktu untuk bersikap positif, sekaranglah saatnya.
 
 1291
 01:20:27,200 --> 01:20:29,845
 He wins SOPA a year after he is arrested.
+Aaron memenangkan SOPA setahun setelah dia ditangkap (terkait kasus JSTOR/MIT)
 
 1292
 01:20:30,016 --> 01:20:31,978
 it's not an unambigously happy moment.
+itu bukan momen bahagia yang benar-benar bahagia.
 
 1293
 01:20:31,978 --> 01:20:33,344
 There is a lot going on.
+Perjalanan asih panjang.
 
 1294
 01:20:33,344 --> 01:20:40,149
 He is so atuned towards participating in the political process, you can't stop him.
+Dia sangat cepat menyesuaikan diri untuk berpartisipasi ke aksi politik, kamu tidak bisa menghentikannya.
 
 1295
 01:20:40,337 --> 01:20:44,350
 The list of organizations Swartz founded or co-founded is enourmous.
+Daftar organisasi yang didirikan dan dibantu oleh Swartz banyak sekali.
 
 1296
 01:20:44,352 --> 01:20:48,256
 and years before Edward Snowden would expose widespread Internet surveillance
+Bertahun-tahun sebelum Edward Snowden menyebarluaskan tentang pengawasan Internet oleh pemerintah
 
 1297
 01:20:48,448 --> 01:20:50,737
 Swartz was already concerned.
+Swartz sudha menyadarinya lebih dulu.
 
 1298
 01:20:50,737 --> 01:20:50,858
-It is shocking to think that accountability is so lax
 Swartz was already concerned.
+[?]
 
 1299
 01:20:50,858 --> 01:20:54,622
 It is shocking to think that accountability is so lax
+[?]
 
 1300
 01:20:55,290 --> 01:20:57,111
 that they don't even have basic statistics
+bahwa mereka bahkan tidak punya statistik dasar
 
 1301
 01:20:57,137 --> 01:20:59,110
 about how big this spying programme is.
+seberapa besar program pengawasan/mata-mata ini.
 
 1302
 01:20:59,200 --> 01:21:03,594
 The answer is "We are spying on so many people we can't possibly even count them."
+Jawabannya adalah "Kami memata-matai banyak sekali orang yang bahkan kami sendiri tidak bisa menghitungnya."
 
 1303
 01:21:03,594 --> 01:21:05,749
 then thats an awful lot of people.
+maka itu jumlah yang sangat masif dan mengerikan.
 
 1304
 01:21:06,602 --> 01:21:10,058
 One thing that they said was "Look, we know number of telephones we are spying on,
+Satu hal yang mereka katakan, "Lihat, kami tahu jumlah telepon yang kami awasi,
 
 1305
 01:21:10,058 --> 01:21:12,868
 we dont know exactly how many real people that corresponds to."
+kami tidak tahu seberapa banyak orang yang menggunakan satu telepon saja."
 
 1306
 01:21:13,210 --> 01:21:15,349
 but they came back and said we can't give you a number at all.
+Namun mereka kembali dan bilang mereka tidak bisa memberi angka sama sekali.
 
 1307
 01:21:15,386 --> 01:21:18,800
 Thats pretty... I mean, that's scary is what it is.
+Itu sangat... maksudku, hal ini sangat mengerikan.
 
 1308
 01:21:18,888 --> 01:21:25,730
 And they put incredible pressure on him, took away .. all of the money he had made.
+dan mereka memberinya tekanan yang luar biasa padanya, mengambil ... semua uang yang telah ia kumpulkan.
 
 1309
 01:21:27,500 --> 01:21:29,807
 they threatened to take away his physical freedom.
+mereka mengancam akan merenggut kebebasan fisiknya.
 
 1310
 01:21:30,057 --> 01:21:34,293
 Why did they do it? Why are they going after whistleblowers?
+Mengapa mereka melakukannya? Mengapa mereka melakukannya setelah whistleblower?
 
 1311
 01:21:34,540 --> 01:21:38,337
 Why are they going after people who tell the truth
+Mengapa mereka mengejar orang yang menceritakan kebenaran
 
 1312
 01:21:38,650 --> 01:21:42,986
 about all sorts of things from the banks
+tentang segala hal mulai, tentang bank-bank
 
 1313
 01:21:43,066 --> 01:21:46,190
 to war, to just sort of government transparency.
+sampai perang, tentnag transparansi pemerintah
 
 1314
 01:21:46,447 --> 01:21:51,466
 So secrecy serves those who are already in power, and we are living in an era of secrecy..
+Jadi, kerahasiaan melayani mereka yang memiliki kekuatan, dan kita hidup di era kerahasiaan.
 
 1315
 01:21:51,620 --> 01:21:54,408
 That coincides with an era where the government is doing
+Bertepatan dengan era dimana apa yang dilakukan pemerintah
 
 1316
 01:21:54,480 --> 01:21:58,293
 and also a lot of things that are probably illegal and unconstitutional.
+banyak yang mungkin ilegal dan tidak konstitutional
 
 1317
 01:21:58,595 --> 01:22:01,520
 So, those two things are not coincidences
+Dua hal itu tidak sama.
 
 1318
 01:22:01,530 --> 01:22:04,275
 It's very clear that this technology has been developed
+Ini sudah jelas, bahwa teknologi ini dikembangkan
 
 1319
 01:22:04,311 --> 01:22:07,351
 not for small countries overseas, but right here
+bukan untuk negara-negara kecil di seberang lautan, tapi untuk di sini
 
 1320
 01:22:07,440 --> 01:22:09,920
 for the use in United States by the US government.
+untuk digunakan di Amerika Serikat oleh pemerintah.
 
 1321
 01:22:09,920 --> 01:22:13,724
 The problem with the spying programme is that its sort of long, slow expansion
+Masalahnya program pengawasan/mata-mata ini, tumbuh perlahan
 
 1322
 01:22:13,720 --> 01:22:16,622
 you kknow, going back to the Nixon Administration.
+sejak pemerintahan Nixxon
 
 1323
 01:22:16,890 --> 01:22:19,920
 Obviosly it became big after 9/11 under George W. Bush
+Kemudian menjadi besar sejak 9/11 di bawah pemerintahan George W. Bush
 
 1324
 01:22:19,973 --> 01:22:21,768
 and Obama has continued to expand it
+dan Obama lanjut membesarkannya.
 
 1325
 01:22:21,848 --> 01:22:23,866
 the problems have slowly grown worse and worse
+Masalah-masalah ini perlahan tumbuh semakin buruk dan buruk
 
 1326
 01:22:23,991 --> 01:22:26,515
@@ -5895,202 +5949,251 @@ but there has been this moment you can point to and say
 1327
 01:22:26,551 --> 01:22:30,970
 "Okay we need to galvanize opposition today because today is when it matters."
-
+"Oke kita perlu membangkitkan perlawanan hari ini, karena hari ini sangat penting."
 1328
 01:22:32,230 --> 01:22:34,888
 The prosecution, in my estimation, of Aaron Swartz
+Penuntutan Aaron Swartz ini, dalam perkiraan saya,
 
 1329
 01:22:34,977 --> 01:22:41,230
 was about sending a particular laser like message to a group of people
+mengirim sinyal ke beberapa kelompok orang
 
 1330
 01:22:41,237 --> 01:22:45,504
 that the Obama Administration sees as politically threatening
+bahwa pemerintahan Obama melihat ancaman politik
 
 1331
 01:22:47,422 --> 01:22:53,780
 and that is the essentially the hacker, the information and the democracy activist community.
+dari hacker, aktivis demokrasi dan informasi
 
 1332
 01:22:54,030 --> 01:22:57,306
 and the message that the Obama Administration wanted to send
+dan pesan yang dicoba sampaikan oleh pemerintahan Obama
 
 1333
 01:22:57,333 --> 01:23:00,800
 to that particular community was in my estimation
+kepada beberapa komunitas tersebut adalah
 
 1334
 01:23:00,853 --> 01:23:04,808
 "we know you have the ability to make trouble for the establishment
+"Kami tahu kalian punya kemampuan untuk membuat masalah
 
 1335
 01:23:06,910 --> 01:23:08,862
 and so were going to try to make an example out of Aaron Swartz
+jadi kami ingin membuat Aaron Swartz sebagai contoh
 
 1336
 01:23:08,897 --> 01:23:13,600
 to scare as many of you as possible into not making that trouble."
+untuk menakuti sebanyak mugkin dari kalian, agar kalian tidak membuat masalah lagi."
 
 1337
 01:23:13,706 --> 01:23:14,817
 And the governement said
+Dan pemerintah bilang,
 
 1338
 01:23:14,888 --> 01:23:20,270
 "oh, the legal opinions we are using to legalize the spying programme are also classified
+"Oh, aturan legal yang kami gunakan untuk melegalkan program pengawasan/mata-mata juga termasuk rahasia
 
 1339
 01:23:20,355 --> 01:23:23,448
 so we can't even tell you which laws we are using to spy on you."
+jadi bahkan kami tidak bisa menceritakan, hukum/peraturan mana yang kami gunakan untuk memata-mataimu."
 
 1340
 01:23:23,490 --> 01:23:26,533
 Everytime they can say "Oh this is another instance of cyber war"
+Setiap saat mereka bisa bilag, "Oh ini perang cyber yang lain lagi."
 
 1341
 01:23:26,560 --> 01:23:28,440
 "the cyber criminals are attacking us agian"
+"Kriminal cyber menyerang kita lagi."
 
 1342
 01:23:28,462 --> 01:23:30,360
 "we are all in danger, we are all under threat".
+"Kita semua dalam bahaya. Kita semua dalam ancaman."
 
 1343
 01:23:30,435 --> 01:23:33,970
 they use those as an excuse to push through more and more dangerous laws.
+Mereka mengunggunakan kasus itu untuk membuat lebih banyak hukum/peraturan yang berbahaya.
 
 1344
 01:23:37,320 --> 01:23:40,897
 Interviewer: Personally, how do you feel the fight is going?
+Pewawancara : Secara pribadi, apa yang kamu rasakan tentang hal ini?
 
 1345
 01:23:41,004 --> 01:23:42,890
 It's up to you.
+Ini terserah kita.
 
 1346
 01:23:47,635 --> 01:23:52,195
 You know, there are sort of these two polarizing prespectives
+Ada dua perspektif yang saling bertentangan.
 
 1347
 01:23:52,320 --> 01:23:55,457
 Everything is great, Internet has created all this freedom and liberty,
+Semua sudah bagus. Internet menciptakan semua kebebasan dan keterbukaan ini.
 
 1348
 01:23:55,457 --> 01:23:57,040
 and everythings gonna be fantastic.
+dan semua akan jadi fantastis
 
 1349
 01:23:57,084 --> 01:23:58,506
 or everything is terrible.
+atau mungkin menjadi lebih buruk.
 
 1350
 01:23:58,542 --> 01:24:00,471
 Internet has created all these tools for cracking down
+Internet juga menciptakan semua jenis perkakas-perkakas untuk meretas dan merusak
 
 1351
 01:24:00,497 --> 01:24:03,370
 and spying and, you know, controlling what we say.
+dan memata-matai, mengontrol kita
 
 1352
 01:24:03,484 --> 01:24:05,310
 and I think these both are true.
+dan kupikir keduanya benar.
 
 1353
 01:24:06,293 --> 01:24:10,069
 the Internet has done both and both are kind of amazing and astonishing
+Internet telah melakukan keduanya. Dua-duanya luar biasa dan menakjubkan.
 
 1354
 01:24:10,097 --> 01:24:13,102
 and which one will win out in the long run is up to us.
+dan yang mana yang akan kita menangkan dalam jangka panjang, adalah tergantung pada kita
 
 1355
 01:24:13,160 --> 01:24:15,635
 It doesn't make sense to say "Oh one is doing better than the other"
+Tidak masuk akal jika seseorang berkata, "Oh, tentu saja yang satu lebih baik dari yang lain"
 
 1356
 01:24:15,653 --> 01:24:17,620
 you know, they are both true.
+Keduanya benar.
 
 1357
 01:24:17,728 --> 01:24:21,461
 and its up to us which one we emphasize and which one we take advantage of
+dan semuanya tergantung pada kita, yang mana yang akan kita pertegas, yang mana yang akan kita manfaatkan dengan baik
 
 1358
 01:24:21,711 --> 01:24:23,701
 because they are both there and they are always gonna be there.
+karena keduanya sudah ada dan selalu ada di Internet
 
 1359
 01:24:29,184 --> 01:24:34,901
 On September 12th, 2012, Federal prosecutors filed a superseeding indictment against Swartz
+Pada 12 September 2012, Penuntut umum mengajukan dakwaan baru melawan Swartz
 
 1360
 01:24:34,965 --> 01:24:40,256
 adding additional counts of wire fraud, unauthorized access to a computer and Computer Fraud.
+menambahkan beberapa kejahatan baru, kejahatan komunikasi, pembobolan akses dan kejahatan komputer.
 
 1361
 01:24:40,506 --> 01:24:45,397
 Now instead of 4 felony counts Swartz was facing 13.
+Sekarang, alih-alih menghadapi 4 tuntutan, Swartz akhirnya menghadapi 13 tuntutan
 
 1362
 01:24:45,760 --> 01:24:48,576
 The prosecution leverage had dramatically increased
+Pengaruh tuntutan mendadak meningkat
 
 1363
 01:24:48,826 --> 01:24:51,797
 as did Swartz's potential jail time and fines.
+seperti masa hukuman, ganti rugi dan denda
 
 1364
 01:24:52,047 --> 01:24:55,488
 They filed a seperate indictment to add more charges
+Mereka mengajukan dakwaan terpisah untuk menambah denda
 
 1365
 01:24:55,738 --> 01:25:01,589
 and they had a theory about why this conduct constituted a number of federal crimes
+dan mereka punya teori sendiri, mengapa kasus ini bisa menggiring ke beberapa kejahatan federal
 
 1366
 01:25:01,839 --> 01:25:05,749
 and that a very significant sentence could attach to it under the law.
+dan ada banyak sekali kalimat yang bisa ditambahkan di bawah hukum
 
 1367
 01:25:07,048 --> 01:25:10,515
 That theory and much of the prosecution case agianst Swartz
+Teori dan tuntutan yang digunakan untuk menjatuhkan Swartz
 
 1368
 01:25:10,640 --> 01:25:13,857
 involved a law created originally in 1986.
+didasarkan pada hukum yang aslinya dibuat pada tahun 1986
 
 1369
 01:25:14,044 --> 01:25:16,500
 it is called "Computer Fraud and Abuse Act.".
+yang disebut, "Computer Fraud and Abuse Act."
 
 1370
 01:25:16,885 --> 01:25:19,914
 The Computer Fraud and Abuse Act was inspired by the movie "War Games"
+Hukum tersebut diinspirasi oleh film "War Games"
 
 1371
 01:25:19,982 --> 01:25:21,660
 with Mathew Brodrick, which was a great movie,
+yang dibintangi olleh Mathew Brodrick, film yang bagus
 
 1372
 01:25:23,320 --> 01:25:27,884
 In this movie, a kid get the ability through the magic of computer networks
+Di film ini, seorang anak memiliki keahlian hebat dari jaringan komputer.
 
 1373
 01:25:27,911 --> 01:25:30,257
 to, like, launch a nuclear attack.
+misal, untuk meluncurkan serangan nuklir dari komputernya
 
 1374
 01:25:33,920 --> 01:25:37,706
 Now that's not actually possible and certainly wasn't possible in the 80s
+Sekarang, hal seperti itu tidak benar-benar mungkin terjadi dan sangat tidak mungkin terjadi di tahun 80-an
 
 1375
 01:25:37,700 --> 01:25:40,613
 but apparently this movie scared Congress enough
+namun tampaknya film ini cukup menakut-nakuti Congress
 
 1376
 01:25:40,702 --> 01:25:44,960
 to pass the original Computer Fraud and Abuse Act.
+sampai mengesahkan hukum 'Computer Fraud and Abuse Act' ini.
 
 1377
 01:25:45,130 --> 01:25:47,093
