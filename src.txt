@@ -5389,7 +5389,7 @@ Aksi menelepon ke Congress berlanjut ketika situs penyedia hosting dan domain Go
 1215
 01:15:50,248 --> 01:15:54,920
 tens of thousands of users transfer their Domain Names in protest.
-Sekitar 10.000 penggunanya mmindahkan langganan mereka sebagai bentuk protes.
+Sekitar 10.000 penggunanya memindahkan langganan mereka sebagai bentuk protes.
 
 1216
 01:15:55,351 --> 01:15:59,650
@@ -5399,219 +5399,273 @@ Sekitar seminggu setelahnya, GoDaddy meralat posisi mereka terhadap SOPA
 1217
 01:15:59,650 --> 01:16:04,453
 About when the Congress people that supported these
+Ketika orang-orang di Congress mulai mendukung anti-SOPA
 
 1218
 01:16:04,471 --> 01:16:08,320
 the record and movie industries realize that there was this backlash
+industri rekaman dan film menyadari reaksi balik ini
 
 1219
 01:16:08,346 --> 01:16:10,364
 they kind of scaled the bill back a little bit,
+mereka mengukur kembali peraturan ini
 
 1220
 01:16:10,430 --> 01:16:11,644
 you could see the curve happening.
+dan kamu bisa melihat perubahan perlahan
 
 1221
 01:16:11,688 --> 01:16:15,890
 you could see that our arguments were starting to resonate.
+suara kami mulai bergema
 
 1222
 01:16:15,946 --> 01:16:18,980
 It was like Aaron had been like striking a match and he was being blown out...
+Ini seperti Aaron sedang menyerang dalam pertandingan dan dia akan kalah meledak
 
 1223
 01:16:18,986 --> 01:16:20,864
 striking another one and being blown out and finally
+menyerang yang lain lagi dan akan kalah, dan akhirnya
+
 
 1224
 01:16:21,110 --> 01:16:24,071
 he managed to catch enough kindling that the flame actually caught
+dia berhasil menangkap bola apinya
 
 1225
 01:16:24,789 --> 01:16:26,873
 and then they turned into this roaring blaze.
+dan mereka menjadi lautan api
 
 1226
 01:16:27,029 --> 01:16:32,042
 On January 16th, 2012, the White House issued a statement saying
+Pada 16 Januari 2012, Gedung Putih mengeluarkan statemen
 
 1227
 01:16:32,042 --> 01:16:33,706
 they didn't support the bill.
+bahwa mereka tidak mendukung peraturan ini (SOPA)
 
 1228
 01:16:34,048 --> 01:16:35,776
 and then this happened.
+dan kemudian ini terjadi
 
 1229
 01:16:36,180 --> 01:16:39,866
 I'm a big believer that we should be dealing with issues of piracy
+Saya adalah orang yang percaya penuh bahwa kita harus menyelesaikan masalah pembajakan (di internet)
 
 1230
 01:16:39,893 --> 01:16:42,040
 and we should deal with them in a serious way
+dan kita harus menyelesaikannya dengan cara serius
 
 1231
 01:16:42,560 --> 01:16:44,337
 but this bill is not the right bill.
+hanya saja peraturan ini bukan peraturan yang tepat
 
 1232
 01:16:44,453 --> 01:16:48,930
 When Jimmy Wales put his support towards blacking out Wikipedia
+Ketika Jimmy Wales memberikan dukungannya dengan menghitamkan halaman Wikipedia
 
 1233
 01:16:49,057 --> 01:16:52,666
 the number 5 most popular website in the world
+Situs web paling populer ke 5 di dunia
 
 1234
 01:16:52,773 --> 01:16:58,680
 this is a website 7% of all of the clicks on anywhere on the Internet.
+Situs web ini menguasai 7% klik dari manapun di Internet
 
 1235
 01:16:58,720 --> 01:17:00,110
 Wikipedia went black,
+Wikipedia menghitamkan halamannya,
 
 1236
 01:17:00,266 --> 01:17:01,580
 Reddit went black,
+Reddit menghitam
 
 1237
 01:17:01,724 --> 01:17:02,970
 Craigslist went black,
+Craigslist menghitam
 
 1238
 01:17:03,306 --> 01:17:06,110
 phonelines on Capitol Hill flat out melted,
+Sambungan telepon di Capitol Hill meleleh
 
 1239
 01:17:06,280 --> 01:17:09,395
 members of Congress started rushing to issue statements
+Anggota Congress mulai sibuk mengeluarkan statemen
 
 1240
 01:17:09,422 --> 01:17:12,960
 retracting their support for the bill, that they were promoting just a couple of days ago.
+meralat dukungan mereka terhadap peraturan ini, yang sempat mereka promosikan beberapa hari sebelumnya.
 
 1241
 01:17:13,600 --> 01:17:17,973
 Within 24 hours the number of oponents of SOPA in Congress
+Dalam 24 jam, penentang SOPA di Congress
 
 1242
 01:17:18,017 --> 01:17:19,475
 went from this...
+naik dari angka ini....
 
 1243
 01:17:19,546 --> 01:17:21,130
 ...to this.
+... menjadi segini
 
 1244
 01:17:22,711 --> 01:17:27,697
 To see Congressmen and Senators slowly flipside
+Melihat orang-orang di Congress dan senat perlahan berubah
 
 1245
 01:17:27,733 --> 01:17:31,244
 throughout the day of blackout was pretty unbeliveable,
+pada hari blackout benar-benar sulit dipercaya.
 
 1246
 01:17:31,271 --> 01:17:34,080
 there was like a hundered representatives swing,
+ada sekitar ratusan perwakilan yang berubah haluan
 
 1247
 01:17:34,506 --> 01:17:38,581
 And that was when, as hard as it was for me to believe after all this
+Dan saat itu, bagiku masih sulit untuk mempercayai semua ini
 
 1248
 01:17:38,581 --> 01:17:39,925
 We had won!
+Kita telah menang!
 
 1249
 01:17:40,690 --> 01:17:42,426
 The thing everyone said was impossible,
+Hal yang sebelumnya dianggap tidak mungkin
 
 1250
 01:17:42,462 --> 01:17:48,540
 that some of the biggest companies in the world had written of as kind of a pipe dream had happened.
+[?]
 
 1251
 01:17:48,702 --> 01:17:50,030
 We did it!
+Kita berhasil!
 
 1252
 01:17:50,942 --> 01:17:52,275
 We won!
+Kita menang!
 
 1253
 01:17:55,777 --> 01:17:58,773
 This is a historic week in Internet politics, maybe American politics.
+Ini adalah minggu bersejarah bagi politik Internet, mungkin juga untuk politik Amerika.
 
 1254
 01:17:58,826 --> 01:18:02,488
 The thing that we heard from people in Washington D.C,
+Yang kami dengar dari orang-orang di Washington D.C.
 
 1255
 01:18:02,533 --> 01:18:06,970
 from staffers on Capitol Hill was, they recieved more e-mails and more phone calls
+dari staf-staf di Capitol Hill, bahwa mereka menerima lebih banyak pesan email dan panggilan telepon
 
 1256
 01:18:06,970 --> 01:18:10,462
 on SOPA blackout day than they ever recieved about anything.
+pada hari blackout ketimbang yang pernah mereka terima sebelumnya.
 
 1257
 01:18:10,581 --> 01:18:12,928
 I think that was an extremenly exciting moment,
+Kupikir ini momen yang sangat menarik.
 
 1258
 01:18:12,928 --> 01:18:17,770
 this was the moment when the Internet had grown up politically.
+Ini adalah momen ketika Internet mulai tumbuh secara politik.
 
 1259
 01:18:17,770 --> 01:18:21,269
 It was exhilarating because its hard to believe that it actually happened.
-
+Ini sangat mengembirakan karena masih sulit dipercaya bahwa ini benar-benar terjadi.
 
 1260
 01:18:21,351 --> 01:18:25,470
 It's hard to believe, a bill with so much financial power behind it
+Sulit dipercaya, peraturan yang banyak didukung kekuatan finansial di belakangnya
 
 1261
 01:18:25,893 --> 01:18:29,244
 didn't simply sail through the Congress.
+tidak berhasil disahkan melalui Congress.
 
 1262
 01:18:29,376 --> 01:18:32,298
 and not only did it not sail through, it didn't pass at all.
+bukan hanya tidak disahkan, namun tidak diterima sama sekali.
 
 1263
 01:18:34,060 --> 01:18:36,293
 It's easy sometimes to feel like you are powerless
+Kadang-kadang mudah buat merasa bahwa kalian tidak punya kekuatan
 
 1264
 01:18:36,311 --> 01:18:39,060
 like, when you come out on the streets and you march and you yell,
+ketika kalian keluar untuk turun ke jalan, berdemonstrasi dan berteriak
 
 1265
 01:18:39,075 --> 01:18:40,435
 and nobody hears you.
+dan tak seorang pun mendengarmu
 
 1266
 01:18:40,462 --> 01:18:43,057
 But I'm here to tell you today: You are powerfull!
+Namun saya di sini hari ini buat mengatakan hal ini ke kalian : Kalian punya kekuatan!
 
 1267
 01:18:46,053 --> 01:18:48,550
 Maybe sometimes you feel like you not being listened to,
+Mungkin kadang-kadang kalian merasa tidak didengarkan sama sekali
 
 1268
 01:18:48,577 --> 01:18:51,860
 but I'm here to tell you that you are, that you are being listened to,
+namun saya di sini untuk bilang bahwa kamu didengarkan
 
 1269
 01:18:51,870 --> 01:18:56,405
 You are making a difference. You can stop this bill if you dont stop fighting.
+Kalian membuat perbedaan. Kalian bisa menghentikan peraturan ini jika kalian tidak berhenti berjuang
 
 1270
 01:18:59,968 --> 01:19:02,404
 Stop PIPA! Stop SOPA!
+Hentikan PIPA! Hentikan SOPA!
 
 1271
 01:19:04,444 --> 01:19:07,370
