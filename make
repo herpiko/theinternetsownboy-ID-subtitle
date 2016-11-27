@@ -49,6 +49,7 @@ splitting()
   do
      lines=`echo "$i" | wc -l`
      lines=$((lines-2))
+     index=`echo -e "$i" | head -n 2`
      if [ "$lines" -gt 3 ];then
        i=`echo -e "$i" | sed '3,5d'`
      elif [ "$lines" -gt 2 ];then
@@ -56,7 +57,9 @@ splitting()
      else 
        i=`echo -e "$i" | sed '3d'`
      fi
-     echo "$i" >> $dist
+     i=`echo -e "$i" | sed '1,2d'`
+     echo "$index" >> $dist
+     echo "<font color=\"#ffff00\">$i</font>" >> $dist
      echo "" >> $dist
   done 
 }
