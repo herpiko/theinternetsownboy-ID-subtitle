@@ -1,8 +1,16 @@
 ﻿<img src="https://travis-ci.org/herpiko/theinternetsownboy-ID-subtitle.svg?branch=master">
 
+### The Internet's Own Boy
+
+<img src="https://cloud.githubusercontent.com/assets/2534060/20647358/37bf8274-b4c5-11e6-819c-4eaee76aac1c.png">
+
+Film dokumenter ini menceritakan tentang pemrogram komputer, penulis, aktivis politik dan internet, Aaron Swartz. Disutradarai oleh Brian Knappenberger.
+
 ### Kontribusi
 
-Untuk memperbaiki terjemahan, silakan kirim Pull Request. Untuk yang ingin menerjemahkan bagian yang belum tersentuh, silakan buat Issue untuk menandai bagian (dari tolok ukur menit) yang akan diambil agar tidak konflik.
+Untuk memperbaiki terjemahan, silakan kirim Pull Request.
+
+Untuk yang ingin menerjemahkan bagian yang belum tersentuh, silakan buat Issue untuk menandai bagian (dari tolok ukur menit) yang akan diambil agar tidak konflik, kemudian kirim Pull Request.
 
 Sunting berkas `src.txt`. Tulis terjemahannya persis di bawah kalimat Bahasa Inggris-nya agar orang lain masih dapat membaca perbandingannya.
 
@@ -34,7 +42,7 @@ Henry David Thoreau
 
 ### Pisah
 
-Perintah berikut akan memisahkan subtitle Bahasa Indonesia ke berkas baru `TheInternetsOwnBoy_TheStoryofAaronSwartz-HD.srt` dan siap untuk diuji/konsumsi.
+Perintah berikut akan memisahkan subtitle Bahasa Indonesia ke berkas baru `TheInternetsOwnBoy_TheStoryofAaronSwartz-HD.srt` dan siap untuk diuji/konsumsi bersama berkas videonya.
 
 ```
 $ ./make
