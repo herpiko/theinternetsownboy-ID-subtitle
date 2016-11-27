@@ -5164,190 +5164,237 @@ dan semua saling memperjuangkan habis-habisan untuk disahkan
 1170
 01:13:00,650 --> 01:13:04,995
 and the fights that are the closest are when you have one set of corporate interest
+dan perseteruan terdekat adalah saat kamu membawa kepentingan perusahaan
 
 1171
 01:13:05,386 --> 01:13:08,130
 against another set of corporate interests and they are financially
+melawan kepentingan perusahan lain dan secara finansial mereka
 
 1172
 01:13:08,168 --> 01:13:11,160
 equally matched in terms of campaign contributions and lobbying.
+sama-sama kuat dalam hal sumbangan kampanye dan lobi.
 
 1173
 01:13:11,168 --> 01:13:12,661
 Those are the closest ones.
+Itu contoh paling dekat.
 
 1174
 01:13:13,013 --> 01:13:15,395
 The ones that aren't even fights, typically,
+Contoh yang sebenarnya sama sekali tidak berjuang
 
 1175
 01:13:15,528 --> 01:13:18,440
 are ones where all the money is on one side
+adalah yang memiliki uang di satu sisi
 
 1176
 01:13:18,480 --> 01:13:20,346
 all the corporations are on one side,
+dan didukung perusahaan-perusahaan di sisi lain
 
 1177
 01:13:20,391 --> 01:13:22,850
 and its just millions of people are on the other side.
+sementara ada jutaan orang di sisi yang berlawanan
 
 1178
 01:13:25,141 --> 01:13:30,560
 I haven't seen anything like PIPA and SOPA in all my time in public service,
+Selama saya bekerja, saya tidak pernah melihat sesuatu yang seperti PIPA dan SOPA,
 
 1179
 01:13:31,413 --> 01:13:36,832
 there were more than 40 United States senators on that bill as co-sponsers.
+Ada lebih dari 40 senat AS yang mendukung pajak ini.
 
 1180
 01:13:37,557 --> 01:13:43,744
 so there were already a long long way to getting 60 votes to clear all the procedural hoops.
+jadi jalannya masih panjang untuk mendapatkan 60 vote, untuk membatalkan SOPA
 
 1181
 01:13:44,682 --> 01:13:48,010
 Even I began to doubt myself. It was a rough period.
+Bahkan saya mulai meragukan diri saya sendiri. Periode yang buruk.
 
 1182
 01:13:48,010 --> 01:13:51,697
 Swartz and Demand Progress were able to marshall enormous support
+Swartz dan Demand Progress berhasil mendapatkan dukungan yang besar
 
 1183
 01:13:52,106 --> 01:13:56,168
 using traditional outrage combined with commonly used Voice over IP
+menggunakan kecaman tradisional dikombinasikan dengan komunikasi VoIP
 
 1184
 01:13:56,370 --> 01:13:59,182
 to make it very easy for people to call Congress.
+yang memudahkan orang-oranng untuk menghubungi Congress
 
 1185
 01:13:59,850 --> 01:14:03,857
 I've never met anybody else who was able to operate at his level,
+Saya belum pernah menemui seseorang yang selevel dengan Aaron
 
 1186
 01:14:03,928 --> 01:14:08,320
 both on the technological side and on the campaign strategy side.
+baik dari sisi teknis / teknologi maupun dari strategi kampanye
 
 1187
 01:14:08,453 --> 01:14:12,577
 Millions of people contacted Congress and signed anti-SOPA petitions.
+Jutaan orang menelepon Congress dan menandatangani petisi anti-SOPA
 
 1188
 01:14:13,048 --> 01:14:14,970
 Congress was caught off guard.
+Congress kalah telak
 
 1189
 01:14:15,660 --> 01:14:20,231
 There was just something about watching those clueless member of Congress debate the bill,
+Ada hal lucu saat menonton beberapa anggota Congress mendebat peraturan ini
 
 1190
 01:14:20,680 --> 01:14:22,791
 watching them insist they could regulate the Internet
+melihat mereka bersikeras bahwa mereka bisa mengendalikan Internet
 
 1191
 01:14:22,835 --> 01:14:24,951
 and a bunch of nerds couldn't possibly stop them.
+dan sekumpulan nerd tidak mungkin menghentikan mereka
 
 1192
 01:14:25,093 --> 01:14:26,071
 I'm not a nerd.
+Saya bukan nerd
 
 1193
 01:14:26,133 --> 01:14:27,640
 I am just not enough of a nerd.
+Saya belum cukup untuk menjadi seoragn nerd
 
 1194
 01:14:27,688 --> 01:14:30,737
 ...maybe we ought to ask some nerds what this thing really does.
+...mungkin kita seharusnya menanyakan hal ini ke orang-orang yang dijuluki nerd
 
 1195
 01:14:30,869 --> 01:14:32,896
 Let's have hearing, bring in the nerds.
+Ayo buat sesi dengar, bawa nerd-nerd itu kemari
 
 1196
 01:14:35,617 --> 01:14:36,390
 Really?
+Yang benar saja?
 
 1197
 01:14:39,760 --> 01:14:41,031
 Nerds?
+Nerd?
 
 1198
 01:14:42,088 --> 01:14:45,546
 You know, I think actually the word you are looking for is "Experts".
+Kupikir, kata yang dimaksud adalah "expert" (ahli)
 
 1199
 01:14:46,698 --> 01:14:53,290
 to enlighten you, so your laws won't backfire, break the Internet.
+yang mencerahkan kamu, sehingga hukum dan peraturanmu tidak berantakan dan merusak internet
 
 1200
 01:14:53,351 --> 01:14:56,702
 We used the term Geek, but we are allowed to use that because we are geeks.
+Kami menggunakan istilah Geek, kami dibolehkan menggunakan istilah tersebut karena kami adalah geek.
 
 1201
 01:14:56,800 --> 01:15:01,880
 The fact that it got as far as it did without them talking to any technical experts
+Faktanya, ini semua menjadi terlalu jauh tanpa mereka berdiskusi ke ahli teknisnya
 
 1202
 01:15:01,888 --> 01:15:04,704
 reflects the fact that there is a problem in this town.
+bercermin ke fakta bahwa ada sebuah masalah di kota ini.
 
 1203
 01:15:04,737 --> 01:15:10,115
 I'm looking for somebody to come before this body and testify in a hearing
+Saya mencari orang yang bisa hadir di sesi dengar ini
 
 1204
 01:15:10,248 --> 01:15:12,080
 and say this is why they are wrong.
+dan mengatakan kepada mereka bahwa mereka salah
 
 1205
 01:15:12,320 --> 01:15:15,484
 There used to be an office that provided Science and Technology advice
+Dulunya di sana ada kantor penasehat ilmu pengetahuan dan teknologi
 
 1206
 01:15:15,546 --> 01:15:19,480
 and members could go to them and say "Help me understand XYZ".
+dan anggota Congress bisa mendatangi mereka dan berkata, "Bantu aku memahami XYZ ini"
 
 1207
 01:15:19,488 --> 01:15:22,069
 and Gingrich killed it. He said it was waste of money.
+namun Gingrich menutup kantor itu. Dia bilang itu pemborosan uang.
 
 1208
 01:15:22,069 --> 01:15:25,717
 Ever since then Congress has plunged into the dark ages.
+Sejak saat itu, Congress memasuki zaman kegelapan
 
 1209
 01:15:26,097 --> 01:15:29,850
 I don't think anybody thought that SOPA could be beaten, including Aaron.
+Aku tidak berpikir siapa pun bisa mengalahkan SOPA, termasuk Aaron
 
 1210
 01:15:30,222 --> 01:15:34,053
 He knew it was worth trying but it doesn't seem winnable.
+Dia tahu semua ini patut dicoba namun terlihat tidak bisa dimenangkan
 
 1211
 01:15:34,506 --> 01:15:37,130
 And I remember, maybe a few months later, I remember him
+Aku ingat, bahkan beberapa bulan setelahnya, aku ingat dia
 
 1212
 01:15:37,146 --> 01:15:40,030
 just turning to me and being like "I think we might win this"
+berbalik arah kepadaku dan berkata, "Kupikir kita bisa memenangkan ini"
 
 1213
 01:15:40,394 --> 01:15:42,250
 and I was like "That would be amazing"
+dan kubilang, "Wew keren."
 
 1214
 01:15:44,500 --> 01:15:50,222
 Calls to Congress contiune when Domain hosting site GoDaddy becomes a supporter of the bill.
+Aksi menelepon ke Congress berlanjut ketika situs penyedia hosting dan domain GoDaddy menjadi pendukung peraturan ini.
 
 1215
 01:15:50,248 --> 01:15:54,920
 tens of thousands of users transfer their Domain Names in protest.
+Sekitar 10.000 penggunanya mmindahkan langganan mereka sebagai bentuk protes.
 
 1216
 01:15:55,351 --> 01:15:59,650
 Within a week, a humbled GoDaddy reverses their position on SOPA.
+Sekitar seminggu setelahnya, GoDaddy meralat posisi mereka terhadap SOPA
 
 1217
 01:15:59,650 --> 01:16:04,453
