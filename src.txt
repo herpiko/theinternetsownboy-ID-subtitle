@@ -1287,134 +1287,167 @@ Pada tahun 2004, Swartz meninggalkan Highland Park dan masuk ke Universitas Stan
 257
 00:16:46,000 --> 00:16:49,800
 He had also diverticolite[?] which was very troubling
+Dia juga telah -------- yang sangat meresahkan
 
 258
 00:16:50,000 --> 00:16:51,900
 and we were concerned about him taking his medications.
+dan kita terfokus tentang pengobatannya.
 
 259
 00:16:53,000 --> 00:16:56,200
 He got hospitalized and he would take this cocktail pills everyday
+dia masuk rumah sakit dan dia akan mengonsumsi pil koktail ini setiap hari
 
 260
 00:16:56,400 --> 00:17:00,200
 and one of these pills was a steroid which dauted his growth and
+dan salah satu pil ini adalah steroid yang ----- pertumbuhannya dan
 
 261
 00:17:00,700 --> 00:17:03,600
 made him feel different from any of the other students
+membuatnya merasa berbeda dari mahasiswa manapun
 
 262
 00:17:04,000 --> 00:17:06,800
 Aaron, I think, shows up at Stanford ready to scholarship
+Aaron, saya pikir, ----- di Stanford untuk beasiswa
 
 263
 00:17:07,000 --> 00:17:12,600
 and find himself effectively in a baby sitting program for overachieving high school-ers
+dan ----- dalam program pengasuhan anak untuk untuk mahasiswa -----
 
 264
 00:17:12,800 --> 00:17:21,300
 who in four years meant to become captain of industry and one percent-ers
+yang selama empat tahun berniah untuk menjadi kapten industry dan seorang percenter
 
 265
 00:17:21,500 --> 00:17:25,600
 and I think it just made him banana
+dan saya pikir itu hanya menjadikannya pisang[?]
 
 266
 00:17:25,800 --> 00:17:28,900
 In 2005 after only one year of college
+pada 2005, hanya setelah datu tahun kuliah
 
 267
 00:17:28,923 --> 00:17:32,210
 Swartz was offered a spot at a new startup incubation firm
+Swartz ditawari tempat di sebuah perusahaan startup inkubasi baru
 
 268
 00:17:32,312 --> 00:17:36,130
 called Y Combinator led by Paul Graham
+yang disebut Y yang dipimpin oleh Paul Graham
 
 269
 00:17:36,283 --> 00:17:39,192
 He's like, "hey, I have this idea for a web site"
+Dia bilang, "hey, saya punya ide untuk situs web"
 
 270
 00:17:39,272 --> 00:17:41,876
 and Paul Graham likes him enough and
+dan Paul Graham cukup menyukainya dan
 
 271
 00:17:41,941 --> 00:17:46,174
 so yeah, sure, so Aaron drops out of school to this apartment
+dan, ya, Aaron keluar dari kampus dan pindah ke apartemen ini
 
 272
 00:17:46,247 --> 00:17:48,900
 So this used to be Aaron apartment when he lived here
+Maka ini dulunya apartemen Aaron ketika dia tinggal di sini
 
 273
 00:17:48,952 --> 00:17:55,163
 my big memories of my father telling me how difficult it was to get a lease
+memori berkesan saya tentang ayah saya yang menceritakan bagaimana susahnya untuk mengontrak
 
 274
 00:17:55,701 --> 00:17:58,400
 cause Aaron had no credit and dropped out of college
+karena Aaron tidak punya kredit dan keluar dari kampus
 
 275
 00:17:58,501 --> 00:18:00,600
 Aaron lived in what[?] called the living room
+Aaron tinggal di tempat yang disebut ruang tamu
 
 276
 00:18:00,654 --> 00:18:04,000
 and some of the posters here are left over from when Aaron lived here
+dan beberapa poster di sini adalah sisa dari ketika Aaron tinggal di sini
 
 277
 00:18:04,356 --> 00:18:08,800
 and the library, there were[?] more books then, but a lot of them are Aaron's
+dan perpustakaan, ada banyak buku, tapi kebanyakan milik Aaron
 
 278
 00:18:11,500 --> 00:18:17,400
 Aaron YCombinator site is called "infogami" a tool to build websites
+situr Y Combinator Aaron disebut "infogami" sebuat alat untuk membangun situs web
 
 279
 00:18:17,476 --> 00:18:19,774
 but infogami struggles to find users
+tapi infogami kesulitan menemukan pengguna
 
 280
 00:18:19,800 --> 00:18:21,978
 and Swartz eventually merges his company
+dan Swartz akhirya menggabungkan perusahaannya
 
 281
 00:18:22,029 --> 00:18:24,581
 with another Y Combinator project in need of help
+dengan proyek Y Combinator lain yang membutuhkan bantuan
 
 282
 00:18:24,800 --> 00:18:29,700
 it was a project led by Steve Huffman and Alexis Ohanian called "reddit"
+itu adalah proyek yang dipimpin oleh Steve Huffman dan Alexis Ohanian yang disebut "reddit"
 
 283
 00:18:29,774 --> 00:18:33,680
 Now we were starting from almost nothing, no users, no money, no code
+Sekarang kita mulai dari hampir tidak ada apa-apa, tidak ada pengguna, tidak ada uang, tidak ada kode
 
 284
 00:18:33,745 --> 00:18:36,800
 and growing day by day into hugely popular website
+dan tumbuh hari demi hari menuju situs web yang pupoler
 
 285
 00:18:37,200 --> 00:18:38,800
 and it shows no sign of letting up
+itu menunjukan -------
 
 286
 00:18:38,850 --> 00:18:43,600
 first we had a thousand users, than 10.000, then 20.000 and on and on, it's just incredible
+pertama kita punya seratuh pengguna, kemudian, 10.000, kemudian 20.000, dan begitu seterusnya, itu luar biasa
 
 287
 00:18:49,025 --> 00:18:49,207
 reddit becomes huge and it's a real sort of geeky corner of the Internet
+reddit menjadi besar dan itu semacam semacam geeky corner internet yang nyata
 
 288
 00:18:51,700 --> 00:18:57,100
 There's a lot of humor, there's a lot of art
+Ada banyak humo, ada banyak kesenian
 
 289
 00:18:57,300 --> 00:19:01,100
 and there's just people who flocked to the site
+
 
 290
 00:19:01,300 --> 00:19:07,500
