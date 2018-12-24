@@ -1392,7 +1392,7 @@ dan perpustakaan, ada banyak buku, tapi kebanyakan milik Aaron
 278
 00:18:11,500 --> 00:18:17,400
 Aaron YCombinator site is called "infogami" a tool to build websites
-situr Y Combinator Aaron disebut "infogami" sebuat alat untuk membangun situs web
+situs YCombinator Aaron disebut "infogami" sebuat alat untuk membangun situs web
 
 279
 00:18:17,476 --> 00:18:19,774
@@ -1432,42 +1432,48 @@ itu menunjukan -------
 286
 00:18:38,850 --> 00:18:43,600
 first we had a thousand users, than 10.000, then 20.000 and on and on, it's just incredible
-pertama kita punya seratuh pengguna, kemudian, 10.000, kemudian 20.000, dan begitu seterusnya, itu luar biasa
+pertama kita punya seratus pengguna, kemudian, 10.000, kemudian 20.000, dan begitu seterusnya, luar biasa.
 
 287
 00:18:49,025 --> 00:18:49,207
 reddit becomes huge and it's a real sort of geeky corner of the Internet
-reddit menjadi besar dan itu semacam semacam geeky corner internet yang nyata
+reddit menjadi besar, menjadi semacam pojokan internet untuk geeks
 
 288
 00:18:51,700 --> 00:18:57,100
 There's a lot of humor, there's a lot of art
-Ada banyak humo, ada banyak kesenian
+Banyak lelucon (meme), karya seni
 
 289
 00:18:57,300 --> 00:19:01,100
 and there's just people who flocked to the site
+dan orang-orang berbondong-bondong mengunjungi situs itu
 
 
 290
 00:19:01,300 --> 00:19:07,500
 and made that site the main site they go to every morning to get their news.
+dan menjadi situs yang mereka kunjungi setiap pagi untuk mendapat kabar/berita baru.
 
 291
 00:19:07,600 --> 00:19:15,500
 "reddit" kind of just borders on chaos at some level, so on the one hand its a place for people to discuss
+Pada level tertentu, reddit menjadi xxxxxxx, pada satu titik ia menjadi tempat berdiskusi bagi orang-orang
 
 292
 00:19:15,600 --> 00:19:21,800
 ...news of the day, technology, politics and issues and yet there is a lot of kind of not safe for work
+...berita hari ini, teknologi, politik dan isu tertentu dan bahkan banyak konten vulgar
 
 293
 00:19:21,900 --> 00:19:29,800
 ...material, offensive material. Some subreddits were "trolls", "find a welcome home"
+...konten yang bersifat menyerang/ngetroll. Beberapa subreddit termasuk "trolls"
 
 294
 00:19:29,900 --> 00:19:33,800
 and so in that sense reddit has been home to controversies as well
+dan dalam konteks ini, reddit menjadi tempat bagi kontroversi juga.
 
 295
 00:19:33,900 --> 00:19:36,700
@@ -1476,44 +1482,54 @@ It's kind of sits on the edge of chaos.
 296
 00:19:36,900 --> 00:19:40,700
 reddit catches the attention of the corporate magazine giant "Condé Nast"
+reddit sempat menarik perhatian dari raksasa majalah korporsai, "Condé Nast"
 
 297
 00:19:40,700 --> 00:19:40,800
 ...who makes an offer to buy the company.
-reddit catches the attention of the corporate magazine giant "Condé Nast"
+...yang menawarkan untuk membeli reddit
 
 298
 00:19:40,800 --> 00:19:42,400
 ...who makes an offer to buy the company.
+...yang menawarkan untuk membeli reddit
 
 299
 00:19:42,600 --> 00:19:43,700
 Some large amount of money,
+Jumlah uang yang besar.
 
 300
 00:19:43,900 --> 00:19:46,800
 large enough that my dad was getting bugged with questions about like
+jumlahnya cukup besar sampai membuat ayah saya terganggu dengan pertanyaan semacam,
 
 301
 00:19:47,000 --> 00:19:51,300
 "How do I... store this money?"
+"Bagaimana aku... harus menyimpan uang sebanyak ini?"
 
 302
 00:19:51,400 --> 00:19:53,800
 Interviewer: Like a lot of money
 Noah: Like a lot of money
+Pewawancara: Sepertinya jumlah uang yang sangat banyak.
+Noah: Ya, sangat banyak.
 
 303
 00:19:53,900 --> 00:20:00,200
 Like... probably more than a million dollars. But I don't actually know.
+Mungkin... mungkin lebih dari satu juta dollar. Tapi persisnya saya tidak tahu.
 
 304
 00:20:00,200 --> 00:20:01,800
 And he's how old then?
+Saat itu Aaron berumur berapa?
 
 305
 00:20:02,100 --> 00:20:03,200
 Nineteen or twenty?
+Sembilan belas, atau dua puluh?
 
 306
 00:20:05,100 --> 00:20:13,500
