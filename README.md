@@ -45,6 +45,6 @@ Henry David Thoreau
 Perintah berikut akan memisahkan subtitle Bahasa Indonesia ke berkas baru `TheInternetsOwnBoy_TheStoryofAaronSwartz-HD.srt` dan siap untuk diuji/konsumsi bersama berkas videonya.
 
 ```
-$ ./make
+$ make
 ```
 

@@ -1,0 +1,2 @@
+split:
+	@./scripts/splitter
